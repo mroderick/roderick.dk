@@ -1,7 +1,7 @@
 ---
 date: '2021-08-12T09:27:00+0200'
 title: 'Why you shouldn’t use @here on Slack'
-tags: ['Link']
+tags: ['Link', 'Work']
 showToc: false
 TocOpen: false
 draft: false

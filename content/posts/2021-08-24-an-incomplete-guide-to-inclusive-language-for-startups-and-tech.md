@@ -1,7 +1,7 @@
 ---
 date: '2021-08-24T10:57:00+0200'
 title: 'An Incomplete Guide to Inclusive Language for Startups and Tech'
-tags: ['Link']
+tags: ['Link', 'Work']
 showToc: false
 TocOpen: false
 draft: false

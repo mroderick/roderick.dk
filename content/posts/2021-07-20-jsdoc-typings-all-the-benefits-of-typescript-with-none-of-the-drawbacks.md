@@ -1,7 +1,7 @@
 ---
 date: '2021-07-20T14:30:00+0200'
 title: 'JSDoc typings: all the benefits of TypeScript, with none of the drawbacks'
-tags: ['Link']
+tags: ['Link', 'TypeScript', 'JavaScript']
 showToc: false
 TocOpen: false
 draft: false

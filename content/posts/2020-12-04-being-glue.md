@@ -1,7 +1,7 @@
 ---
 date: '2020-12-04T16:50:00+0100'
 title: 'Being glue'
-tags: []
+tags: ['Work']
 showToc: false
 TocOpen: false
 draft: false

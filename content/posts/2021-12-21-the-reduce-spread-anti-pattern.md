@@ -1,7 +1,7 @@
 ---
 date: '2021-12-21T09:50:00+0100'
 title: 'The reduce ({...spread}) anti-pattern'
-tags: ["link", "javascript"]
+tags: ['Link', 'JavaScript']
 showToc: false
 TocOpen: false
 draft: false
