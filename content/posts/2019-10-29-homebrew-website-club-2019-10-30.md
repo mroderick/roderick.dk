@@ -1,7 +1,7 @@
 ---
 date: '2019-10-29T11:58:00+0100'
 title: 'Homebrew Website Club, 2019-10-30'
-tags: ['Work', 'Web']
+tags: ['HWC', 'Web', 'Work']
 showToc: false
 TocOpen: false
 draft: false
