@@ -1,7 +1,7 @@
 ---
-date: '2022-02-07T10:38:00+0100'
-title: 'Get Started With TypeScript the Easy Way'
-tags: ["Link", "TypeScript"]
+date: '2022-01-25T14:20:00+0100'
+title: '#NoEstimates, talk by Allen Holub'
+tags: ["link"]
 showToc: false
 TocOpen: false
 draft: false
@@ -26,7 +26,6 @@ UseHugoToc: false
 #     hidden: true # only hide on current single page
 ---
 
-> Unlike many tutorials today, this one will focus on minimizing the technical requirements to follow along. We will get up and running with TypeScript without opening a terminal, installing dependencies, or even initializing an NPM project. In the advanced portion we will need to do a bit of that, but for most users, all you will need is Visual Studio Code as your editor.
+> This keynote presents my (and many other's) thinking about #NoEstimates. It argues that estimation is a bad thing, particularly in the Agile world, and presents ways to plan that don't involve estimation.
 
-
-Link [Get Started With TypeScript the Easy Way](https://austingil.com/typescript-the-easy-way/)
+Link: [#NoEstimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)

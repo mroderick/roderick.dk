@@ -1,7 +1,7 @@
 ---
-date: '2022-02-07T10:38:00+0100'
-title: 'Get Started With TypeScript the Easy Way'
-tags: ["Link", "TypeScript"]
+date: '2021-12-21T09:50:00+0100'
+title: 'The reduce ({...spread}) anti-pattern'
+tags: ["link", "javascript"]
 showToc: false
 TocOpen: false
 draft: false
@@ -26,7 +26,6 @@ UseHugoToc: false
 #     hidden: true # only hide on current single page
 ---
 
-> Unlike many tutorials today, this one will focus on minimizing the technical requirements to follow along. We will get up and running with TypeScript without opening a terminal, installing dependencies, or even initializing an NPM project. In the advanced portion we will need to do a bit of that, but for most users, all you will need is Visual Studio Code as your editor.
+I thought this was a really interesting examination of the performance penalties of using `({...spread})` in JavaScript.
 
-
-Link [Get Started With TypeScript the Easy Way](https://austingil.com/typescript-the-easy-way/)
+Link: [The reduce ({...spread}) anti-pattern](https://www.richsnapp.com/article/2019/06-09-reduce-spread-anti-pattern)
