@@ -1,6 +1,5 @@
 ---
 date: '2023-03-20T20:01:00+0100'
-draft: true
 title: '2023 Birthday Party'
 tags: ["personal"]
 showToc: false
