@@ -1,7 +1,7 @@
 ---
 date: '2019-08-31T00:00:00+00:00'
 title: 'Red bell, green bike'
-tags: []
+tags: ['Personal']
 showToc: false
 TocOpen: false
 draft: false
