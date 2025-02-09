@@ -1,7 +1,7 @@
 ---
 date: '2021-09-24T11:29:00+0100'
 title: 'Writing good git history'
-tags: ["Git"]
+tags: ['Git', 'Link']
 showToc: false
 TocOpen: false
 draft: false
