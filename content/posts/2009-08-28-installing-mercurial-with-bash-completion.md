@@ -1,5 +1,5 @@
 ---
-date: '2025-02-09T21:45:06+01:00'
+date: '2009-08-28T00:00:00+0000'
 title: 'Installing Mercurial With Bash Completion from MacPorts'
 tags: ['macOS', 'OSX']
 showToc: false
