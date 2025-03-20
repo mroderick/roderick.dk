@@ -10,7 +10,7 @@ buildExpired: false
 
 minify:
   disableXML: true
-  minifyOutput: true
+  minifyOutput: false
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -50,7 +50,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "roderick.dk"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -71,8 +71,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "roderick.dk"
-    # Content: Welcome to my blog
+    Title: "Hi there"
+    Content: Welcome to my blog
 
   socialIcons:
     - name: bluesky
@@ -81,6 +81,8 @@ params:
       url: "https://github.com/mroderick"
     - name: linkedin
       url: "https://www.linkedin.com/in/morganroderick/"
+    - name: rss
+      url: "/index.xml"
     - name: cv
       url: "https://roderick.dk/cv"
 
