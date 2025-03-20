@@ -2,6 +2,7 @@
 date: '2020-01-19T14:50:00+0000'
 title: 'Tips for joyful video calls'
 tags: ['Work']
+aliases: /2020/01/19/tips-for-joyful-video-calls/
 showToc: false
 TocOpen: false
 draft: false

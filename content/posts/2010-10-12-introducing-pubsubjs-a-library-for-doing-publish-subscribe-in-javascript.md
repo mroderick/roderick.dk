@@ -2,6 +2,7 @@
 date: '2010-10-12T00:00:00+0000'
 title: 'Introducing PubSubJS, a library for doing publish/subscribe in JavaScript'
 tags: ['JavaScript', 'Work']
+aliases: /2010/10/12/introducing-pubsubjs-a-library-for-doing-publish-subscribe-in-javascript/
 showToc: false
 TocOpen: false
 draft: false

@@ -2,6 +2,7 @@
 date: '2009-11-03T00:00:00+0000'
 title: 'Perfect Pitch'
 tags: ['Web']
+aliases: /2009/11/03/perfect-pitch/
 showToc: false
 TocOpen: false
 draft: false

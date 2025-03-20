@@ -2,6 +2,7 @@
 date: '2023-03-20T20:01:00+0100'
 title: '2023 Birthday Party'
 tags: ["personal"]
+aliases: /2023/03/20/2023-birthday-party/
 showToc: false
 TocOpen: false
 draft: false

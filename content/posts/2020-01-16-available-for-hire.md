@@ -2,6 +2,7 @@
 date: '2020-01-16T10:59:00+0000'
 title: 'Available for hire!'
 tags: ['Work']
+aliases: /2020/01/16/available-for-hire/
 showToc: false
 TocOpen: false
 draft: false

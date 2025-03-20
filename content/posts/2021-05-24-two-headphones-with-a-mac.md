@@ -2,6 +2,7 @@
 date: '2021-05-24T11:21:00+0200'
 title: 'Two headphones with a Mac'
 tags: ['Link', 'macOS']
+aliases: /2021/05/24/two-headphones-with-a-mac/
 showToc: false
 TocOpen: false
 draft: false

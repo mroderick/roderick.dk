@@ -2,6 +2,7 @@
 date: '2009-05-07T00:00:00+0000'
 title: 'Introduction to Low Pro for Prototype'
 tags: ['JavaScript']
+aliases: /2009/05/07/introduction-to-low-pro-for-prototype/
 showToc: false
 TocOpen: false
 draft: false

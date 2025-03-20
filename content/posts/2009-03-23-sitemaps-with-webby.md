@@ -2,6 +2,7 @@
 date: '2009-03-23T00:00:00+0000'
 title: 'Sitemaps With Webby'
 tags: ['Web']
+aliases: /2009/03/23/sitemaps-with-webby/
 showToc: false
 TocOpen: false
 draft: false

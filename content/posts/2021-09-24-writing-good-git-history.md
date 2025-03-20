@@ -2,6 +2,7 @@
 date: '2021-09-24T11:29:00+0100'
 title: 'Writing good git history'
 tags: ['Git', 'Link']
+aliases: /2021/09/24/writing-good-git-history/
 showToc: false
 TocOpen: false
 draft: false

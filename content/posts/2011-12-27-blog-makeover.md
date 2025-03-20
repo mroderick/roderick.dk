@@ -2,6 +2,7 @@
 date: '2011-12-27T00:00:00+0000'
 title: 'Blog makeover'
 tags: []
+aliases: /2011/12/27/blog-makeover/
 showToc: false
 TocOpen: false
 draft: false

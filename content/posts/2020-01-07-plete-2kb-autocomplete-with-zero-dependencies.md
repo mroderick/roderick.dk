@@ -2,6 +2,7 @@
 date: '2020-01-07T21:43:00+0000'
 title: 'plete: 2KB autocomplete with zero dependencies'
 tags: ['JavaScipt', 'Web']
+aliases: /2020/01/07/plete-2kb-autocomplete-with-zero-dependencies/
 showToc: false
 TocOpen: false
 draft: false

@@ -2,6 +2,7 @@
 date: '2010-11-03T00:00:00+0000'
 title: 'jQuery Data Link considered harmful'
 tags: ['JavaScript', 'Work']
+aliases: /2010/11/03/jquery-data-link-considered-harmful/
 showToc: false
 TocOpen: false
 draft: false

@@ -2,6 +2,7 @@
 date: '2009-10-04T00:00:00+0000'
 title: 'Combining JavaScript Files - Juicer vs Sprockets'
 tags: ['JavaScript']
+aliases: /2009/10/04/combining-javascript-files-juicer-vs-sprockets/
 showToc: false
 TocOpen: false
 draft: false

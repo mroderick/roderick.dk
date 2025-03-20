@@ -2,6 +2,7 @@
 date: '2018-09-10T00:00:00+00:00'
 title: 'Avoid double exclamations in JavaScript'
 tags: ['JavaScript', 'Work']
+aliases: /2018/09/10/avoid-double-exlamations/
 showToc: false
 TocOpen: false
 draft: false

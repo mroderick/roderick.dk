@@ -2,6 +2,7 @@
 date: '2009-08-03T00:00:00+0000'
 title: 'Disable Webpage Preview Images in Safari 4 Final'
 tags: ['OSX', 'Safari', 'Web']
+aliases: /2009/08/03/disable-webpage-preview-images-in-safari-4-final/
 showToc: false
 TocOpen: false
 draft: false

@@ -2,6 +2,7 @@
 date: '2022-02-07T10:38:00+0100'
 title: 'Get Started With TypeScript the Easy Way'
 tags: ["Link", "TypeScript"]
+aliases: /2022/02/07/typeScript-the-easy-way/
 showToc: false
 TocOpen: false
 draft: false

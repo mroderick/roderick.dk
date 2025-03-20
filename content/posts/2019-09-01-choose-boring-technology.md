@@ -2,6 +2,7 @@
 date: '2019-09-01T23:14:00+02:00'
 title: 'Choose Boring Technology'
 tags: ['Link', 'Work']
+aliases: /2019/09/01/choose-boring-technology/
 showToc: false
 TocOpen: false
 draft: false

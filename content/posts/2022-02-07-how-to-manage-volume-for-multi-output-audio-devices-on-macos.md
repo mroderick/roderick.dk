@@ -2,6 +2,7 @@
 date: '2022-02-07T10:05:00+0100'
 title: 'How to manage volume for Multi-output Audio devices on macOS'
 tags: ["macOS"]
+aliases: /2022/02/07/how-to-manage-volume-for-multi-output-audio-devices-on-macos/
 showToc: false
 TocOpen: false
 draft: false

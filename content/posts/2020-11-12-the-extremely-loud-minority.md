@@ -2,6 +2,7 @@
 date: '2020-11-12T20:58:00+0100'
 title: 'The (extremely) loud minority'
 tags: ['JavaScript', 'Link']
+aliases: /2020/11/12/the-extremely-loud-minority/
 showToc: false
 TocOpen: false
 draft: false

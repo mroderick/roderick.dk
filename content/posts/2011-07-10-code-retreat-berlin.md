@@ -2,6 +2,7 @@
 date: '2011-07-10T00:00:00+0000'
 title: 'Code Retreat Berlin'
 tags: ['Work']
+aliases: /2011/07/10/code-retreat-berlin/
 showToc: false
 TocOpen: false
 draft: false

@@ -2,6 +2,7 @@
 date: '2009-08-28T00:00:00+0000'
 title: 'Installing Mercurial With Bash Completion from MacPorts'
 tags: ['macOS', 'OSX']
+aliases: /2009/08/28/installing-mercurial-with-bash-completion/
 showToc: false
 TocOpen: false
 draft: false

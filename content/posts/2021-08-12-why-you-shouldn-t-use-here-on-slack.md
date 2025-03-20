@@ -2,6 +2,7 @@
 date: '2021-08-12T09:27:00+0200'
 title: 'Why you shouldn’t use @here on Slack'
 tags: ['Link', 'Work']
+aliases: /2021/08/12/why-you-shouldn-t-use-here-on-slack/
 showToc: false
 TocOpen: false
 draft: false

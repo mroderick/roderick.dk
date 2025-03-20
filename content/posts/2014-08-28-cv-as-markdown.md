@@ -2,6 +2,7 @@
 date: '2014-08-28T00:00:00+0000'
 title: 'cv as markdown'
 tags: ['Work']
+aliases: /2014/08/28/cv-as-markdown/
 showToc: false
 TocOpen: false
 draft: false

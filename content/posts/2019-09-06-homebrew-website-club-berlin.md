@@ -2,6 +2,7 @@
 date: '2019-09-06T00:00:00+00:00'
 title: 'Homebrew Website Club, Berlin'
 tags: ['HWC', 'Web', 'Work']
+aliases: /2019/09/06/homebrew-website-club-berlin/
 showToc: false
 TocOpen: false
 draft: false

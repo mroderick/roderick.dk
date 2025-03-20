@@ -2,6 +2,7 @@
 date: '2008-11-20T00:00:00+0000'
 title: 'How to create un-indexable content for missing javascript warnings'
 tags: ['Web', 'Work']
+aliases: /2008/11/20/un-indexable-javascript-warnings/
 showToc: false
 TocOpen: false
 draft: false

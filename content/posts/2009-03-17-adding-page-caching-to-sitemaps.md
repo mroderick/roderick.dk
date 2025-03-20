@@ -2,6 +2,7 @@
 date: '2009-03-17T00:00:00+0000'
 title: 'Adding Page Caching to Sitemaps'
 tags: ['Web']
+aliases: /2009/03/17/adding-page-caching-to-sitemaps/
 showToc: false
 TocOpen: false
 draft: false

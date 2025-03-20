@@ -2,6 +2,7 @@
 date: '2020-07-28T12:03:00+0200'
 title: 'Using HTTPie with mkcert'
 tags: ['Work']
+aliases: /2020/07/28/using-httpie-with-mkcert/
 showToc: false
 TocOpen: false
 draft: false

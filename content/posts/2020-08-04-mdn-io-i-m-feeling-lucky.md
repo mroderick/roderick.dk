@@ -2,6 +2,7 @@
 date: '2020-08-04T16:37:00+0200'
 title: "mdn.io, I'm feeling lucky"
 tags: ['Work']
+aliases: /2020/08/04/mdn-io-i-m-feeling-lucky/
 showToc: false
 TocOpen: false
 draft: false

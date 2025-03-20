@@ -2,6 +2,7 @@
 date: '2019-09-01T22:20:00+0200'
 title: 'Pick Your Culture First and Foremost'
 tags: ['Link', 'Work']
+aliases: /2019/09/01/pick-your-culture-first-and-foremost/
 showToc: false
 TocOpen: false
 draft: false

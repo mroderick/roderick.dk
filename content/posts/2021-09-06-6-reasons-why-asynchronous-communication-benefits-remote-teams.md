@@ -2,6 +2,7 @@
 date: '2021-09-06T10:06:00+0200'
 title: '6 Reasons Why Asynchronous Communication Benefits Remote Teams Teams'
 tags: ['Link', 'Remote Work', 'Work']
+aliases: /2021/09/06/6-reasons-why-asynchronous-communication-benefits-remote-teams/
 showToc: false
 TocOpen: false
 draft: false
