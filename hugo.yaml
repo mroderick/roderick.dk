@@ -1,7 +1,7 @@
 baseURL: https://roderick/
 languageCode: en-gb
 title: roderick.dk
-theme: ["PaperMod"]
+theme: ["github.com/adityatelange/hugo-PaperMod"]
 
 enableRobotsTXT: true
 buildDrafts: false
