@@ -40,6 +40,8 @@ This post contains a paraphrased version of the advice I gave him.
 6. Create a website on your domain
 7. Configure your email
 
+The advice in this post is targeted at a small business owner, setting up shop in the EU. The objective is not to set things up to be as cheap as humanly possible, but to avoid daily headaches and the occasional complex and costly situations, that quickly will negate any savings and add additional costs.
+
 ## Do not mix business and personal communications
 
 When running a business, customers need an easy way to reach you. When starting out, it is tempting to give customers your personal phone number and email.
@@ -89,6 +91,16 @@ Your small business should have its own domain. There are several benefits to th
 1. It signals professionalism
 2. You are in control of your email and website, not your hosting providers
 3. You don't need to tell anyone that you're changing hosting providers
+
+Chose a domain registrar that isn't your hosting provider. This makes things easier in the future, when you want switch providers.
+
+Look for:
+
+- [ICANN accredited registrar](https://www.icann.org/en/contracted-parties/accredited-registrars/list-of-accredited-registrars)
+- EU jurisdiction and hosting (you'll want EU protections for disputes, privacy, etc)
+- [2FA](https://www.cloudflare.com/en-gb/learning/access-management/what-is-two-factor-authentication/)
+
+A quick internet search should be able to answer the last question: Does {registrar} support 2FA for logins?
 
 ## Create a website on your domain
 
