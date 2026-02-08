@@ -45,11 +45,12 @@ Add to `package.json` devDependencies:
 Add to `.claude/settings.json`:
 ```json
 "hooks": {
-  "PostToolUse": "npx prettier --write {{file_paths}}"
+  "PostToolUse(Edit)": "npx prettier --write {{file_paths}}",
+  "PostToolUse(Write)": "npx prettier --write {{file_paths}}"
 }
 ```
 
-Runs after Edit/Write tool calls. Formats the modified files automatically.
+Runs after Edit and Write tool calls only. Formats the modified files automatically.
 
 ### Pre-commit Hook
 

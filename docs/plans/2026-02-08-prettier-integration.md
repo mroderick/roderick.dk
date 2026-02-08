@@ -124,12 +124,13 @@ Expected: Empty or existing JSON
 
 **Step 2: Update settings.json**
 
-Add PostToolUse hook and permissions:
+Add PostToolUse hooks (for Edit and Write only) and permissions:
 
 ```json
 {
   "hooks": {
-    "PostToolUse": "npx prettier --write {{file_paths}}"
+    "PostToolUse(Edit)": "npx prettier --write {{file_paths}}",
+    "PostToolUse(Write)": "npx prettier --write {{file_paths}}"
   },
   "permissions": {
     "allow": [
@@ -146,7 +147,7 @@ If file exists with content, merge the hooks and permissions sections appropriat
 **Step 3: Verify settings updated**
 
 Run: `cat .claude/settings.json`
-Expected: Contains hooks and permissions sections
+Expected: Contains hooks section with PostToolUse(Edit) and PostToolUse(Write), and permissions section with all three bash permissions
 
 **Step 4: Commit**
 
