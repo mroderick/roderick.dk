@@ -1,7 +1,7 @@
 ---
-date: '2019-09-13T00:00:00+00:00'
-title: 'Why should I self-publish on the web?'
-tags: ['Work', 'Web']
+date: "2019-09-13T00:00:00+00:00"
+title: "Why should I self-publish on the web?"
+tags: ["Work", "Web"]
 aliases: /2019/09/13/why-should-i-self-publish/
 showToc: false
 TocOpen: false

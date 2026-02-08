@@ -1,7 +1,7 @@
 ---
-date: '2018-09-10T00:00:00+00:00'
-title: 'Avoid double exclamations in JavaScript'
-tags: ['JavaScript', 'Work']
+date: "2018-09-10T00:00:00+00:00"
+title: "Avoid double exclamations in JavaScript"
+tags: ["JavaScript", "Work"]
 aliases: /2018/09/10/avoid-double-exlamations/
 showToc: false
 TocOpen: false
@@ -46,7 +46,6 @@ As for the first point, you could argue that it is the reader's responsibility t
 
 Even seasoned writers of the JavaScript will be able to casually introduce subtle and difficult to find regressions, when playing around with the code in order to understand how it behaves. These changes can hide in a large diff and sneak past even the most diligent code reviews.
 
-
 Let's illustrate with an example:
 
 ```js
@@ -70,7 +69,6 @@ if (!!!someValue && someOtherValue) {
 
 Instead of using double exclamation marks, which opens the door for these regressions, I recommend using the [`Boolean`][boolean] function to coerce values to booleans. Using this pattern makes it difficult for these mistakes to hide.
 
-
 ```js
 if (Boolean(someValue) && Boolean(someOtherValue)) {
     // some action
@@ -91,7 +89,7 @@ if (someConditionIsMet) {
 You can also use `Boolean` in iteration, which would be a lot less elegant with `!!`.
 
 ```js
-const values = [1, 0, {}, undefined, [], null, 'apple pie', '',  false, true, ];
+const values = [1, 0, {}, undefined, [], null, "apple pie", "", false, true];
 const truthyValues = values.filter(Boolean);
 // [1, {}, [], "apple pie", true]
 ```

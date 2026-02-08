@@ -1,7 +1,7 @@
 ---
-date: '2020-01-19T14:50:00+0000'
-title: 'Tips for joyful video calls'
-tags: ['Work']
+date: "2020-01-19T14:50:00+0000"
+title: "Tips for joyful video calls"
+tags: ["Work"]
 aliases: /2020/01/19/tips-for-joyful-video-calls/
 showToc: false
 TocOpen: false
@@ -31,12 +31,12 @@ A lot of my work in the last decade has been with partially or entirely distribu
 
 To communicate with other members in the distributed team, I use video calls for:
 
-* pair programming
-* the daily standup call
-* 1-1s
-* the weekly leadership call
-* company all hands / town hall
-* catching up with friends
+- pair programming
+- the daily standup call
+- 1-1s
+- the weekly leadership call
+- company all hands / town hall
+- catching up with friends
 
 This is post is for sharing some things I've learned that give me a more joyful experience with video calls. Maybe some of the tips can improve your experience.
 
@@ -96,7 +96,6 @@ If you're like me, and rarely dial in using your computer, you'll want to use th
 
 Just like "Turn off my video when joining a meeting", this setting is considered good form. Once you're ready for other participants to hear sound from your location, you can turn it on.
 
-
 ### "Do not prompt to join audio when joining a meeting using 3rd party audio"
 
 This is a complement to "Join audio by computer when joining a meeting". If you're already dialed in for audio on your phone, you know what you're doing and Zoom won't get in your way.
@@ -121,10 +120,10 @@ Headsets and headphones (the ones that came with your smartphone) can be good co
 
 ### Microphone recommendations
 
-* [Blue yeti](https://www.bluedesigns.com/products/yeti/) — probably the best microphone I've had the pleasure of using. These are amazing. Recommeded for when you have a dedicated desk and are willing to spend a little time to learn to use them. It is possible to configure them for multiple participants, read the manual.
-* [Jabra Speak](https://www.jabra.com/business/speakerphones/jabra-speak-series) — this series of speakerphones are great for conference calls, especially if there are two or more participants in the same room. Also great, if you don't feel like wearing headphones
-* Most noise cancelling headphones have good, built-in microphone for calls
-* [Apple EarPods](https://www.apple.com/shop/product/MNHF2AM/A/earpods-with-35-mm-headphone-plug) — for the sound quality they provide, I think these are a great, affordable choice.
+- [Blue yeti](https://www.bluedesigns.com/products/yeti/) — probably the best microphone I've had the pleasure of using. These are amazing. Recommeded for when you have a dedicated desk and are willing to spend a little time to learn to use them. It is possible to configure them for multiple participants, read the manual.
+- [Jabra Speak](https://www.jabra.com/business/speakerphones/jabra-speak-series) — this series of speakerphones are great for conference calls, especially if there are two or more participants in the same room. Also great, if you don't feel like wearing headphones
+- Most noise cancelling headphones have good, built-in microphone for calls
+- [Apple EarPods](https://www.apple.com/shop/product/MNHF2AM/A/earpods-with-35-mm-headphone-plug) — for the sound quality they provide, I think these are a great, affordable choice.
 
 ## Avoid making calls in locations with a flutter echo
 

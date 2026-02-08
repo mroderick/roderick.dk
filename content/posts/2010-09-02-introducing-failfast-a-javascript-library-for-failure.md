@@ -1,7 +1,7 @@
 ---
-date: '2010-09-02T00:00:00+0000'
-title: 'Introducing FailFast, a JavaScript library for failure'
-tags: ['JavaScript', 'Work']
+date: "2010-09-02T00:00:00+0000"
+title: "Introducing FailFast, a JavaScript library for failure"
+tags: ["JavaScript", "Work"]
 aliases: /2010/09/02/introducing-failfast-a-javascript-library-for-failure/
 showToc: false
 TocOpen: false
@@ -39,9 +39,9 @@ The goal of FailFast is to help you provide immediate and visible failure.
 
 I've been working on FailFast as a library for a few years now (yeah, I know), but the ideas are far from new. These are some of the resources that have influenced me to write this little library.
 
-* [Fail Fast by Jim Shore](http://martinfowler.com/ieeeSoftware/failFast.pdf)
-* [Failfast on C2 wiki](http://www.c2.com/cgi/wiki?FailFast)
-* [Fail-fast on Wikipedia](http://en.wikipedia.org/wiki/Fail-fast)
+- [Fail Fast by Jim Shore](http://martinfowler.com/ieeeSoftware/failFast.pdf)
+- [Failfast on C2 wiki](http://www.c2.com/cgi/wiki?FailFast)
+- [Fail-fast on Wikipedia](http://en.wikipedia.org/wiki/Fail-fast)
 
 ## How to use FailFast
 
@@ -54,16 +54,25 @@ You could use it for all the public methods of a library, or even just a compone
 Let's get you started with writing (fast) failing code!
 
 ```javascript
-function divide( dividend, divisor ){
-    FailFast.assertNumber( dividend, 'divide: you must pass a number as the "dividend" argument' );
-    FailFast.assertNumber( divisor, 'divide: you must pass a number as the "divisor" argument' );
-    FailFast.assert( divisor !== 0, 'divide: cannot divide with a divisor of zero' );
+function divide(dividend, divisor) {
+    FailFast.assertNumber(
+        dividend,
+        'divide: you must pass a number as the "dividend" argument'
+    );
+    FailFast.assertNumber(
+        divisor,
+        'divide: you must pass a number as the "divisor" argument'
+    );
+    FailFast.assert(
+        divisor !== 0,
+        "divide: cannot divide with a divisor of zero"
+    );
     return dividend / divisor;
 }
 
-divide( "1", 2 ) // will throw exception
-divide( 1, 0 ) // will throw exception
-divide( 1, 2 ) // will return 0.5
+divide("1", 2); // will throw exception
+divide(1, 0); // will throw exception
+divide(1, 2); // will return 0.5
 ```
 
 Our `divide` function will free us from unusable error messages and long stack traces, by throwing errors whenever bad input values are being passed. If a console (like Firebug, Safari, Chrome) is available, the error will also be logged to the console.

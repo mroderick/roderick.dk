@@ -12,6 +12,7 @@ Add Prettier to format Markdown, YAML, JSON, HTML, and JavaScript files automati
 ### Prettier Rules
 
 Use Prettier defaults except:
+
 - `trailingComma: "none"` - No trailing commas
 
 ### Files to Format
@@ -25,6 +26,7 @@ Use Prettier defaults except:
 ### Files to Ignore
 
 Create `.prettierignore`:
+
 - `public/` - Hugo build output
 - `resources/` - Hugo asset cache
 - `node_modules/` - npm packages
@@ -36,6 +38,7 @@ Create `.prettierignore`:
 ### Dependencies
 
 Add to `package.json` devDependencies:
+
 - `prettier` - Core formatting tool
 - `husky` - Manages git hooks
 - `lint-staged` - Runs Prettier only on staged files
@@ -43,6 +46,7 @@ Add to `package.json` devDependencies:
 ### PostToolUse Hook
 
 Add to `.claude/settings.json`:
+
 ```json
 "hooks": {
   "PostToolUse(Edit)": "npx prettier --write {{file_paths}}",
@@ -55,6 +59,7 @@ Runs after Edit and Write tool calls only. Formats the modified files automatica
 ### Pre-commit Hook
 
 Configure lint-staged in `package.json`:
+
 ```json
 "lint-staged": {
   "*.{md,yaml,yml,json,html,js}": "prettier --write"
@@ -62,6 +67,7 @@ Configure lint-staged in `package.json`:
 ```
 
 Setup via Husky:
+
 1. Run `npx husky init` to create `.husky/` directory
 2. Husky creates `.husky/pre-commit` that runs lint-staged
 3. lint-staged formats staged files and stages the changes
@@ -70,6 +76,7 @@ Setup via Husky:
 ### Permissions
 
 Add to `.claude/settings.json`:
+
 ```json
 "permissions": {
   "allow": [
@@ -97,30 +104,35 @@ Project-wide permissions let anyone run setup commands.
 ## README Updates
 
 Add setup section:
-```markdown
+
+````markdown
 ## Setup
 
 1. Install Node.js dependencies:
-   ```sh
-   npm install
-   ```
+    ```sh
+    npm install
+    ```
+````
 
 2. Install Hugo modules:
-   ```sh
-   hugo mod tidy
-   ```
+
+    ```sh
+    hugo mod tidy
+    ```
 
 3. Run development server:
-   ```sh
-   hugo server
-   ```
+    ```sh
+    hugo server
+    ```
 
 ## Code Formatting
 
 This project uses Prettier for automatic code formatting:
+
 - Files auto-format after edits in Claude Code
 - Pre-commit hook formats staged files before commits
 - Manual formatting: `npx prettier --write .`
+
 ```
 
 ## Edge Cases
@@ -160,3 +172,4 @@ Test the setup:
 **Unchanged:**
 - `.claude/settings.local.json` - Keep existing permissions
 - All content and Hugo configuration files
+```

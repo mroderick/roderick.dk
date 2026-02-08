@@ -1,7 +1,7 @@
 ---
-date: '2021-12-21T18:35:00+0100'
-title: 'Everyone sweeps the floor'
-tags: ['Link']
+date: "2021-12-21T18:35:00+0100"
+title: "Everyone sweeps the floor"
+tags: ["Link"]
 aliases: /2021/12/21/everyone-sweeps-the-floor/
 showToc: false
 TocOpen: false

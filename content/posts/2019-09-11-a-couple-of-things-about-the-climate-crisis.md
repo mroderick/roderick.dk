@@ -1,7 +1,7 @@
 ---
-date: '2019-09-11T00:00:00+00:00'
-title: 'A couple of things about the climate crisis'
-tags: ['Personal']
+date: "2019-09-11T00:00:00+00:00"
+title: "A couple of things about the climate crisis"
+tags: ["Personal"]
 aliases: /2019/09/11/a-couple-of-things-about-the-climate-crisis/
 showToc: false
 TocOpen: false

@@ -1,7 +1,7 @@
 ---
-date: '2025-02-10T10:24:29+01:00'
-title: 'Photography'
-tags: ['Photography']
+date: "2025-02-10T10:24:29+01:00"
+title: "Photography"
+tags: ["Photography"]
 showToc: true
 TocOpen: false
 draft: false
@@ -25,4 +25,3 @@ UseHugoToc: false
 #     relative: false # when using page bundles set this to true
 #     hidden: true # only hide on current single page
 ---
-

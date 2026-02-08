@@ -1,6 +1,6 @@
 ---
-date: '2022-02-07T10:38:00+0100'
-title: 'You might not need TypeScript... (syntax)'
+date: "2022-02-07T10:38:00+0100"
+title: "You might not need TypeScript... (syntax)"
 tags: ["Link", "TypeScript"]
 aliases: /2022/02/07/you-might-not-need-typescript-syntax/
 showToc: false
@@ -29,6 +29,6 @@ UseHugoToc: false
 
 > Everyone loves types, Everyone loves autocompletion, Everyone loves getting warnings before they arise.
 >
-> But nobody likes wasting time compiling stuff. Hopefully this will help convince you or your company that you don't actually need the TypeScript flavor syntax. So i have embedded the same editor used in VS-code to show you that *you can have type safety with vanilla JavaScript* and have the best of both worlds and play around with it.
+> But nobody likes wasting time compiling stuff. Hopefully this will help convince you or your company that you don't actually need the TypeScript flavor syntax. So i have embedded the same editor used in VS-code to show you that _you can have type safety with vanilla JavaScript_ and have the best of both worlds and play around with it.
 
 Link [You might not need TypeScript... (syntax)](https://jimmywarting.github.io/you-might-not-need-typescript/)

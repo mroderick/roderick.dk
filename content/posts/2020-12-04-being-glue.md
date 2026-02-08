@@ -1,7 +1,7 @@
 ---
-date: '2020-12-04T16:50:00+0100'
-title: 'Being glue'
-tags: ['Work']
+date: "2020-12-04T16:50:00+0100"
+title: "Being glue"
+tags: ["Work"]
 aliases: /2020/12/04/being-glue/
 showToc: false
 TocOpen: false

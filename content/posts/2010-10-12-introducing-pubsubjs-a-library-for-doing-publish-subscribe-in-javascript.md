@@ -1,7 +1,7 @@
 ---
-date: '2010-10-12T00:00:00+0000'
-title: 'Introducing PubSubJS, a library for doing publish/subscribe in JavaScript'
-tags: ['JavaScript', 'Work']
+date: "2010-10-12T00:00:00+0000"
+title: "Introducing PubSubJS, a library for doing publish/subscribe in JavaScript"
+tags: ["JavaScript", "Work"]
 aliases: /2010/10/12/introducing-pubsubjs-a-library-for-doing-publish-subscribe-in-javascript/
 showToc: false
 TocOpen: false
@@ -45,15 +45,15 @@ Well, there are actually a number of reasons, that ultimately led me to look for
 
 I wanted something that would meet most of these requirements:
 
-* Published under a reasonable software license ( CC, MIT, BSD, Apache, WTFPL, etc)
-* All messages should be passed async be default, anything else is just confusing
-* No use of DOM (it's slow, and storing state in something you have no control over is silly)
-* Pure [JavaScript](https://developer.mozilla.org/en/JavaScript), no library dependencies
-* No side-effects, jQuery modifies subscribers (adding an "id" property to the functions)
-* Should be able to run outside browsers
-* Should have up to date documentation (or at least aligned with the codebase)
-* Tests are important, ok?
-* Small(ish)
+- Published under a reasonable software license ( CC, MIT, BSD, Apache, WTFPL, etc)
+- All messages should be passed async be default, anything else is just confusing
+- No use of DOM (it's slow, and storing state in something you have no control over is silly)
+- Pure [JavaScript](https://developer.mozilla.org/en/JavaScript), no library dependencies
+- No side-effects, jQuery modifies subscribers (adding an "id" property to the functions)
+- Should be able to run outside browsers
+- Should have up to date documentation (or at least aligned with the codebase)
+- Tests are important, ok?
+- Small(ish)
 
 Well, it turned out that my searches on the internet came up empty (my Google-fu could be better), so I decided to write an implementation myself. I call it [PubSubJS](http://github.com/mroderick/PubSubJS).
 
@@ -70,21 +70,21 @@ Let's see some code already!
 ```javascript
 // subscribing to messages is quite easy,
 // first we'll create a subscriber function
-var logToConsole = function( message, data ){
+var logToConsole = function (message, data) {
     // once a message arrives, it'll get logged to the console
     // data passed in messages can be whatever you want
-    console.log( message, data );
+    console.log(message, data);
 };
 
 // every subscription gives you a token,
 // you should keep it if you want to unsubscribe
-var token = PubSub.subscribe( 'some message', logToConsole );
+var token = PubSub.subscribe("some message", logToConsole);
 
 // publishing messages is also quite easy
-PubSub.publish( 'some message', 'hello world!' );
+PubSub.publish("some message", "hello world!");
 
 // now let's unsubscribe from this message
-PubSub.unsubscribe( token );
+PubSub.unsubscribe(token);
 ```
 
 So, as you can see, it's fairly simple to work with.
@@ -95,7 +95,7 @@ To illustrate the difference in execution speed of working with [JavaScript](htt
 
 No! &hellip; Well, maybe &hellip;
 
-If you're building larger web applications where you need to have loose coupling between your modules / components / widgets / whatnots, then publish/subscribe *can* be the answer you're looking for.
+If you're building larger web applications where you need to have loose coupling between your modules / components / widgets / whatnots, then publish/subscribe _can_ be the answer you're looking for.
 
 If you happen to build larger web applications with Dojo and need publish/subscribe, then I recommend you look at the implementation that's already IN Dojo, or get in touch with [Rebecca Murphey](http://www.rebeccamurphey.com/) ;-)
 
@@ -107,7 +107,7 @@ Don't say I didn't warn you.
 
 <hr />
 
-* [Sammy.js](http://code.quirkey.com/sammy/) also uses jQuery custom events. I am however trying to convince Aaron to use pure JavaScript publish/subscribe messaging instead.
-* [Handling Errors and Loading Notifications with Publish and Subscribe](http://enterprisejquery.com/2010/09/creating-an-ajax-component-handling-errors-and-loading-notifications-with-publish-and-subscribe/)
+- [Sammy.js](http://code.quirkey.com/sammy/) also uses jQuery custom events. I am however trying to convince Aaron to use pure JavaScript publish/subscribe messaging instead.
+- [Handling Errors and Loading Notifications with Publish and Subscribe](http://enterprisejquery.com/2010/09/creating-an-ajax-component-handling-errors-and-loading-notifications-with-publish-and-subscribe/)
 
 After writing PubSubJS, I discovered that Peter Higgins has implemented [publish/subscribe for jQuery](http://github.com/phiggins42/bloody-jquery-plugins/blob/master/pubsub.js)

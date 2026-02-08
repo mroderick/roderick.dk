@@ -1,7 +1,7 @@
 ---
-date: '2011-07-10T00:00:00+0000'
-title: 'Code Retreat Berlin'
-tags: ['Work']
+date: "2011-07-10T00:00:00+0000"
+title: "Code Retreat Berlin"
+tags: ["Work"]
 aliases: /2011/07/10/code-retreat-berlin/
 showToc: false
 TocOpen: false
@@ -49,14 +49,14 @@ At the very last session, @til and I put together all the pieces I had on my com
 
 These are some of my learnings from pairing with others at the retreat
 
-* Pairing, when succesful, is very efficient and makes for high quality code
-* The driver of the pair needs to communicate what he's doing at all times, a bit like thinking out loud. Ex: "I will validate the input of this function" or "just making sure that null values won't break the program".
-* The navigator needs to have the bigger picture, and should communicate where the pair is going, and of course point out typos and small mistakes. Ex: "You'll need a function to determine how many neighbours a cell has" or "you can isolate that chunk into it's own function".
-* TDD is _still_ very good for making high quality code
-* TDD _still_ won't help you if you don't know where you're going. Writing tests first will not fix the problem of not knowing exactly what you need to do. Spend time on understanding the problem, do reseearch online, read books. This is not really possible during a code retreat, which is why Conway's Game of Life is a good problem to work on.
+- Pairing, when succesful, is very efficient and makes for high quality code
+- The driver of the pair needs to communicate what he's doing at all times, a bit like thinking out loud. Ex: "I will validate the input of this function" or "just making sure that null values won't break the program".
+- The navigator needs to have the bigger picture, and should communicate where the pair is going, and of course point out typos and small mistakes. Ex: "You'll need a function to determine how many neighbours a cell has" or "you can isolate that chunk into it's own function".
+- TDD is _still_ very good for making high quality code
+- TDD _still_ won't help you if you don't know where you're going. Writing tests first will not fix the problem of not knowing exactly what you need to do. Spend time on understanding the problem, do reseearch online, read books. This is not really possible during a code retreat, which is why Conway's Game of Life is a good problem to work on.
 
 ## Wrap up
 
-Code Retreat Berlin was a great experience. For me there is great joy in understanding problems and creating elegant solutions to them. The format of a code retreat feels contradictory to my urge to *finish* what I am working on, but after a while, you get used to it, and you can focus on practicing.
+Code Retreat Berlin was a great experience. For me there is great joy in understanding problems and creating elegant solutions to them. The format of a code retreat feels contradictory to my urge to _finish_ what I am working on, but after a while, you get used to it, and you can focus on practicing.
 
 One thing I would like to see different in future code retreats is some Venn diagram posted on a wall or website, suggesting pairing partners based on proficiency with programming languages.

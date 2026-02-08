@@ -1,7 +1,7 @@
 ---
-date: '2009-03-27T00:00:00+0000'
-title: 'IE6 Background flicker once again'
-tags: ['JavaScript', 'Web', 'Work']
+date: "2009-03-27T00:00:00+0000"
+title: "IE6 Background flicker once again"
+tags: ["JavaScript", "Web", "Work"]
 aliases: /2009/03/27/ie6-background-flicker-once-again/
 showToc: false
 TocOpen: false
@@ -56,7 +56,7 @@ This is yet another example of developers using Internet Explorers misguided pro
 
 ## When should I use this?
 
-You should be using this fix on every site that uses background images and mouse over effects ... so basically, you should *always* be using this for sites that need to support IE6, and so should I.
+You should be using this fix on every site that uses background images and mouse over effects ... so basically, you should _always_ be using this for sites that need to support IE6, and so should I.
 
 Thankfully, we're seeing the start of a global movement to be rid of IE6 once and for all, and soon we will be able to throw out all the weird fixes for Internet Explorer 6.
 
@@ -64,8 +64,8 @@ Recently, DR (Denmarks Radio) announced that they're [dropping IE6 for IE8 on th
 
 ## This fix seen elsewhere
 
-* [A forensic analysis of the IE6 BackgroundImageCache command identifier](http://misterpixel.blogspot.com/2006/09/forensic-analysis-of-ie6.html)
-* [No more IE6 background flicker](http://evil.che.lu/2006/09/25/no-more-ie6-background-flicker)
+- [A forensic analysis of the IE6 BackgroundImageCache command identifier](http://misterpixel.blogspot.com/2006/09/forensic-analysis-of-ie6.html)
+- [No more IE6 background flicker](http://evil.che.lu/2006/09/25/no-more-ie6-background-flicker)
 
 ## Update - Fixing it server side
 

@@ -1,7 +1,7 @@
 ---
-date: '2019-08-31T00:00:00+00:00'
-title: 'Red bell, green bike'
-tags: ['Personal']
+date: "2019-08-31T00:00:00+00:00"
+title: "Red bell, green bike"
+tags: ["Personal"]
 aliases: /2019/08/31/red-bell-green-bike/
 showToc: false
 TocOpen: false
@@ -29,7 +29,7 @@ UseHugoToc: false
 
 Some years ago, when I still lived in Malmö, I bought a [Pilen Lyx ][pilen-lyx] bicycle. Actually, I ended up buying two. The first one got stolen within the first year, probably by the gang of bicycle thieves that were caught with a van full of stolen, new bicycles within a year.
 
-Anyway, my *second* [Pilen Lyx][pilen-lyx] looked like this:
+Anyway, my _second_ [Pilen Lyx][pilen-lyx] looked like this:
 
 ![My nearly new pilen bicycle][1]
 
@@ -47,7 +47,7 @@ Bicycle paths in Berlin are not always marked well. Well meaning, even native Be
 
 A few weeks ago, while enjoying riding at speed down Danziger Strasse, the Pilen branded bell on my bicycle rattled loose, jumped into the street and shattered everywhere.
 
-Being bell-less might work in smaller/other cities. Not so much here. Losing the ability to produce an audible warning signal on your bike in Berlin makes things *challenging*.
+Being bell-less might work in smaller/other cities. Not so much here. Losing the ability to produce an audible warning signal on your bike in Berlin makes things _challenging_.
 
 Luckily, we have plenty of friendly bicycle shops. I visited one of my local ones, and got a new loud bell fitted on my trusty bicycle.
 
@@ -64,4 +64,3 @@ Once again, Berlin should be able to hear me coming!
 [1]: /images/2019-08-31/1-800.jpg
 [2]: /images/2019-08-31/2-800.jpg
 [3]: /images/2019-08-31/3-800.jpg
-

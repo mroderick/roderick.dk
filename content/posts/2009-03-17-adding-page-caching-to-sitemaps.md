@@ -1,7 +1,7 @@
 ---
-date: '2009-03-17T00:00:00+0000'
-title: 'Adding Page Caching to Sitemaps'
-tags: ['Web']
+date: "2009-03-17T00:00:00+0000"
+title: "Adding Page Caching to Sitemaps"
+tags: ["Web"]
 aliases: /2009/03/17/adding-page-caching-to-sitemaps/
 showToc: false
 TocOpen: false
@@ -84,7 +84,6 @@ In your public folder you should also see a `sitemap.xml` file.
 
 If everything is configured correctly, subsequent requests to `/sitemap.xml` should not show up in the applications log, as the webserver is now serving the static file and not using Rails at all :-)
 
-
 ## Add a cache sweeper
 
 Now that we can succesfully cache the sitemap, we need to make sure it stays fresh, when content in Comatose is updated.
@@ -133,6 +132,6 @@ P.S. Don't forget to set your development environment to NOT use caching anymore
 
 ## Resources
 
-* [Rails Envy: Ruby on Rails Caching Tutorial](http://www.railsenvy.com/2007/2/28/rails-caching-tutorial)
-* [Rails Envy: Ruby on Rails Caching Tutorial - Part 2](http://www.railsenvy.com/2007/3/20/ruby-on-rails-caching-tutorial-part-2)
-* [Scaling Rails Screencasts](http://railslab.newrelic.com/scaling-rails)
+- [Rails Envy: Ruby on Rails Caching Tutorial](http://www.railsenvy.com/2007/2/28/rails-caching-tutorial)
+- [Rails Envy: Ruby on Rails Caching Tutorial - Part 2](http://www.railsenvy.com/2007/3/20/ruby-on-rails-caching-tutorial-part-2)
+- [Scaling Rails Screencasts](http://railslab.newrelic.com/scaling-rails)

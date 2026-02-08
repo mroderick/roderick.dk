@@ -1,7 +1,7 @@
 ---
-date: '2020-01-25T12:23:00+0000'
-title: 'Link: Teams Solve Problems Faster When They’re More Cognitively Diverse'
-tags: ['Link', 'Work']
+date: "2020-01-25T12:23:00+0000"
+title: "Link: Teams Solve Problems Faster When They’re More Cognitively Diverse"
+tags: ["Link", "Work"]
 aliases: /2020/01/25/link-teams-solve-problems-faster-when-they-re-more-cognitively-diverse/
 showToc: false
 TocOpen: false

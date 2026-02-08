@@ -1,7 +1,7 @@
 ---
-date: '2009-10-04T00:00:00+0000'
-title: 'Combining JavaScript Files - Juicer vs Sprockets'
-tags: ['JavaScript']
+date: "2009-10-04T00:00:00+0000"
+title: "Combining JavaScript Files - Juicer vs Sprockets"
+tags: ["JavaScript"]
 aliases: /2009/10/04/combining-javascript-files-juicer-vs-sprockets/
 showToc: false
 TocOpen: false
@@ -31,14 +31,14 @@ Currently working on a project that has well defined use of "namespaces" and str
 
 I need a tool that:
 
-* can be run from command line (my team uses many different editors and IDEs)
-* will work on both Windows and Unix based platforms
-* does not require huge, obscure configuration files
-* can merge sources recursively
-* has an acceptable software license (MIT / Apache / BSD)
-* is thorougly tested
-* is extensible
-* can work with any JavaScript framework
+- can be run from command line (my team uses many different editors and IDEs)
+- will work on both Windows and Unix based platforms
+- does not require huge, obscure configuration files
+- can merge sources recursively
+- has an acceptable software license (MIT / Apache / BSD)
+- is thorougly tested
+- is extensible
+- can work with any JavaScript framework
 
 I settled for trying out [Juicer](http://github.com/cjohansen/juicer) and [Sprockets](http://getsprockets.org), since both tools met the requirements and were the only high-quality tools on my radar.
 
@@ -91,11 +91,11 @@ This will produce a new file, `myfile.min.js`, which contains all dependencies m
 
 ### Bonus features
 
-* Builtin use of [JsLint](http://www.jslint.com/)
-* Builtin use of [YUI Compressor](http://developer.yahoo.com/yui/compressor/)
-* Can merge CSS files
-* Can create cache buster urls for assets referenced by css files
-* Can cycle asset hostnames for asset urls in css files
+- Builtin use of [JsLint](http://www.jslint.com/)
+- Builtin use of [YUI Compressor](http://developer.yahoo.com/yui/compressor/)
+- Can merge CSS files
+- Can create cache buster urls for assets referenced by css files
+- Can cycle asset hostnames for asset urls in css files
 
 ## Sprockets
 
@@ -139,11 +139,11 @@ This creates the merged file, with all dependencies merged in, neat and to the p
 
 ### Bonus features
 
-* Bundling of assets, to create release builds with all dependencies like CSS, images, flash files. Very neat.
-* Support for insertion of constants into the code (like version numbers, authors, i18n, etc)
-* Sprockets is really a well structured Ruby library, so you can just keep extending and building on it
-* Rails plugin (well, only a bonus if you use Rails)
-* CGI script for serving outside Rails
+- Bundling of assets, to create release builds with all dependencies like CSS, images, flash files. Very neat.
+- Support for insertion of constants into the code (like version numbers, authors, i18n, etc)
+- Sprockets is really a well structured Ruby library, so you can just keep extending and building on it
+- Rails plugin (well, only a bonus if you use Rails)
+- CGI script for serving outside Rails
 
 Sprockets does not come with JsLint or YUI Compressor builtin, you will have to add this to your build script yourself. This should not be that much of an issue, as you will probably want to be able to create several diffent builds for yourself anyway.
 

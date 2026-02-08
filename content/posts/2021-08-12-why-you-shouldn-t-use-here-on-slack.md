@@ -1,7 +1,7 @@
 ---
-date: '2021-08-12T09:27:00+0200'
-title: 'Why you shouldn’t use @here on Slack'
-tags: ['Link', 'Work']
+date: "2021-08-12T09:27:00+0200"
+title: "Why you shouldn’t use @here on Slack"
+tags: ["Link", "Work"]
 aliases: /2021/08/12/why-you-shouldn-t-use-here-on-slack/
 showToc: false
 TocOpen: false
@@ -28,6 +28,7 @@ UseHugoToc: false
 ---
 
 > #### The Rules (according to Graham)
+>
 > - Don’t use `@here` unless it is truly relevant to everyone in a channel
 > - Don’t use `@channel` unless there is a fire or a nuclear explosion that everyone needs to be aware of now
 > - Use targeted Slack group mentions for getting a hold of stakeholders in a channel (i.e. `@support_` in the `#support` channel)

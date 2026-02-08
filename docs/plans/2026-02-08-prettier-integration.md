@@ -13,6 +13,7 @@
 ## Task 1: Create package.json
 
 **Files:**
+
 - Create: `package.json`
 
 **Step 1: Write package.json**
@@ -21,20 +22,20 @@ Create the file with Prettier, Husky, and lint-staged dependencies:
 
 ```json
 {
-  "name": "roderick.dk",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "prepare": "husky"
-  },
-  "devDependencies": {
-    "husky": "^9.1.7",
-    "lint-staged": "^15.2.11",
-    "prettier": "^3.4.2"
-  },
-  "lint-staged": {
-    "*.{md,yaml,yml,json,html,js}": "prettier --write"
-  }
+    "name": "roderick.dk",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "prepare": "husky"
+    },
+    "devDependencies": {
+        "husky": "^9.1.7",
+        "lint-staged": "^15.2.11",
+        "prettier": "^3.4.2"
+    },
+    "lint-staged": {
+        "*.{md,yaml,yml,json,html,js}": "prettier --write"
+    }
 }
 ```
 
@@ -55,6 +56,7 @@ git commit -m "chore: add package.json with Prettier dependencies"
 ## Task 2: Create Prettier configuration
 
 **Files:**
+
 - Create: `.prettierrc`
 
 **Step 1: Write .prettierrc**
@@ -63,7 +65,7 @@ Create configuration with single override:
 
 ```json
 {
-  "trailingComma": "none"
+    "trailingComma": "none"
 }
 ```
 
@@ -84,6 +86,7 @@ git commit -m "chore: configure Prettier with no trailing commas"
 ## Task 3: Create Prettier ignore file
 
 **Files:**
+
 - Create: `.prettierignore`
 
 **Step 1: Write .prettierignore**
@@ -115,6 +118,7 @@ git commit -m "chore: configure Prettier ignore patterns"
 ## Task 4: Update Claude Code settings
 
 **Files:**
+
 - Modify: `.claude/settings.json`
 
 **Step 1: Read current settings**
@@ -128,17 +132,17 @@ Add PostToolUse hooks (for Edit and Write only) and permissions:
 
 ```json
 {
-  "hooks": {
-    "PostToolUse(Edit)": "npx prettier --write {{file_paths}}",
-    "PostToolUse(Write)": "npx prettier --write {{file_paths}}"
-  },
-  "permissions": {
-    "allow": [
-      "Bash(npm install:*)",
-      "Bash(npx prettier:*)",
-      "Bash(npx husky:*)"
-    ]
-  }
+    "hooks": {
+        "PostToolUse(Edit)": "npx prettier --write {{file_paths}}",
+        "PostToolUse(Write)": "npx prettier --write {{file_paths}}"
+    },
+    "permissions": {
+        "allow": [
+            "Bash(npm install:*)",
+            "Bash(npx prettier:*)",
+            "Bash(npx husky:*)"
+        ]
+    }
 }
 ```
 
@@ -161,6 +165,7 @@ git commit -m "chore: add Prettier PostToolUse hook and permissions"
 ## Task 5: Update README
 
 **Files:**
+
 - Modify: `README.md`
 
 **Step 1: Read current README**
@@ -172,7 +177,7 @@ Expected: See current structure
 
 Update README with setup instructions:
 
-```markdown
+````markdown
 # roderick.dk
 
 Personal website built using Hugo & Pagemod
@@ -180,27 +185,31 @@ Personal website built using Hugo & Pagemod
 ## Setup
 
 1. Install Node.js dependencies:
-   ```sh
-   npm install
-   ```
+    ```sh
+    npm install
+    ```
+````
 
 2. Install Hugo modules:
-   ```sh
-   hugo mod tidy
-   ```
+
+    ```sh
+    hugo mod tidy
+    ```
 
 3. Run development server:
-   ```sh
-   hugo server
-   ```
+    ```sh
+    hugo server
+    ```
 
 ## Code Formatting
 
 This project uses Prettier for automatic code formatting:
+
 - Files auto-format after edits in Claude Code
 - Pre-commit hook formats staged files before commits
 - Manual formatting: `npx prettier --write .`
-```
+
+````
 
 **Step 3: Verify README updated**
 
@@ -212,13 +221,14 @@ Expected: Contains Setup section with npm install and Code Formatting section
 ```bash
 git add README.md
 git commit -m "docs: update README with setup and formatting instructions"
-```
+````
 
 ---
 
 ## Task 6: Install dependencies
 
 **Files:**
+
 - Creates: `package-lock.json`, `node_modules/`
 
 **Step 1: Run npm install**
@@ -249,6 +259,7 @@ Note: `node_modules/` should not be committed (add to .gitignore if needed)
 ## Task 7: Initialize Husky
 
 **Files:**
+
 - Creates: `.husky/pre-commit`
 
 **Step 1: Run husky init**
@@ -283,6 +294,7 @@ git commit -m "chore: initialize Husky for git hooks"
 ## Task 8: Format existing files
 
 **Files:**
+
 - Modifies: All `.md`, `.yaml`, `.yml`, `.json` files in project
 
 **Step 1: Run Prettier on all files**
@@ -316,6 +328,7 @@ git commit -m "style: format all files with Prettier"
 ## Task 9: Verify PostToolUse hook
 
 **Files:**
+
 - Test: Create temporary file to verify hook
 
 **Step 1: Create test markdown file**
@@ -350,6 +363,7 @@ Note: PostToolUse hook only triggers when Claude Code edits files, not manual co
 ## Task 10: Verify pre-commit hook
 
 **Files:**
+
 - Test: Stage and commit a file to trigger hook
 
 **Step 1: Create test file with bad formatting**
@@ -394,6 +408,7 @@ Expected: Removes test file
 ## Task 11: Final verification
 
 **Files:**
+
 - None (verification only)
 
 **Step 1: Check all config files exist**
@@ -434,6 +449,7 @@ Expected: Shows all commits from this implementation in logical order
 ## Next Steps
 
 After implementation:
+
 1. Use @superpowers:finishing-a-development-branch to integrate the work
 2. Consider creating PR for review if working with team
 3. Test in real usage by editing files with Claude Code

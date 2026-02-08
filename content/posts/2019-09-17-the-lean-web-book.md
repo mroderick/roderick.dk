@@ -1,7 +1,7 @@
 ---
-date: '2019-09-17T11:11:00+0200'
-title: 'The Lean Web book'
-tags: ['Link', 'Web']
+date: "2019-09-17T11:11:00+0200"
+title: "The Lean Web book"
+tags: ["Link", "Web"]
 aliases: /2019/09/17/the-lean-web-book/
 showToc: false
 TocOpen: false

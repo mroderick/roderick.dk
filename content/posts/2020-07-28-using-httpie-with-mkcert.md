@@ -1,7 +1,7 @@
 ---
-date: '2020-07-28T12:03:00+0200'
-title: 'Using HTTPie with mkcert'
-tags: ['Work']
+date: "2020-07-28T12:03:00+0200"
+title: "Using HTTPie with mkcert"
+tags: ["Work"]
 aliases: /2020/07/28/using-httpie-with-mkcert/
 showToc: false
 TocOpen: false
@@ -26,6 +26,7 @@ UseHugoToc: false
 #     relative: false # when using page bundles set this to true
 #     hidden: true # only hide on current single page
 ---
+
 In order to get the development environment on `localhost` closer to the production environment, I'm using HTTPS on `localhost`. This helps me with discovering bugs much earlier, which saves a lot of time.
 
 I use the [excellent tool `mkcert`](https://blog.filippo.io/mkcert-valid-https-certificates-for-localhost/) for managing the certificates locally. `mkcert` is built exactly for this purpose and removes most of the friction.

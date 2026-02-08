@@ -1,5 +1,5 @@
 ---
-date: '{{ .Date }}'
+date: "{{ .Date }}"
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 tags: []
 showToc: false

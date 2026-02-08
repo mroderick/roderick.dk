@@ -1,7 +1,7 @@
 ---
-date: '2009-03-16T00:00:00+0000'
-title: 'Creating Sitemaps with Comatose CMS'
-tags: ['Web', 'Work']
+date: "2009-03-16T00:00:00+0000"
+title: "Creating Sitemaps with Comatose CMS"
+tags: ["Web", "Work"]
 aliases: /2009/03/16/creating-sitemaps-with-comatose-cms/
 showToc: false
 TocOpen: false
@@ -37,7 +37,7 @@ Here is how I have created Sitemaps from Comatose. The code samples have been ex
 
 First we will map `/sitemap.xml` to an action on controller.
 
-``` ruby
+```ruby
 # routes.rb
 ActionController::Routing::Routes.draw do |map|
     map.connect "sitemap.xml", :controller => "info", :action => "sitemap"
@@ -48,7 +48,7 @@ end
 
 In the action of the controller, we will build a collection of pages to include in the sitemap. By not iterating over the `children` collection of each page, we avoid creating numerous calls to the database. Instead we will just use an SQL based find to create our collection.
 
-``` ruby
+```ruby
 # info_controller.rb ( or other public controller )
 def sitemap
     respond_to do |format|
@@ -65,9 +65,9 @@ end
 
 After finding the pages, all we need to do is to render them as a sitemap.
 
-As you will note, the frontpage of the site gets special treatment. It's lastmod attribute is set to the current time (as you probably have content from other sources than your Comatose CMS) and more importantly, we're setting a *different priority* from all the other pages. Search engines need to know which content is more important on your site, and Google Webmaster Tools will give you warnings if all your pages have the same priority.
+As you will note, the frontpage of the site gets special treatment. It's lastmod attribute is set to the current time (as you probably have content from other sources than your Comatose CMS) and more importantly, we're setting a _different priority_ from all the other pages. Search engines need to know which content is more important on your site, and Google Webmaster Tools will give you warnings if all your pages have the same priority.
 
-``` ruby
+```ruby
 # sitemap.rxml
 xml.instruct!
 xml.urlset "xmlns" => "http://www.sitemaps.org/schemas/sitemap/0.9" do
@@ -96,7 +96,7 @@ end
 
 Almost there... to avoid repetition, I've created a little helper for formatting the dates for sitemaps in the [W3C Datetime](http://www.w3.org/TR/NOTE-datetime) format.
 
-``` ruby
+```ruby
 module SitemapHelper
     def w3c_date(date)
         date.utc.strftime("%Y-%m-%dT%H:%M:%S+00:00")
@@ -108,7 +108,7 @@ end
 
 Testing the above code on a virgin Comatose database at <http://localhost:3000/sitemap.xml>, you should see something like this
 
-``` xml
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
@@ -130,6 +130,6 @@ Please do note that this post only describes Sitemap in it's simplest form, ther
 
 ### Resources
 
-* [Comatose CMS](http://github.com/darthapo/comatose/tree/master)
-* [Sitemap](http://www.sitemaps.org/)
-* [Google Webmaster Tools](http://www.google.com/webmasters/tools/)
+- [Comatose CMS](http://github.com/darthapo/comatose/tree/master)
+- [Sitemap](http://www.sitemaps.org/)
+- [Google Webmaster Tools](http://www.google.com/webmasters/tools/)

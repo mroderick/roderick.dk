@@ -1,7 +1,7 @@
 ---
-date: '2009-07-02T00:00:00+0000'
-title: 'Reclaim Disk Space From Safari 4'
-tags: ['OSX']
+date: "2009-07-02T00:00:00+0000"
+title: "Reclaim Disk Space From Safari 4"
+tags: ["OSX"]
 aliases: /2009/07/02/reclaim-disk-space-from-safari-4/
 showToc: false
 TocOpen: false

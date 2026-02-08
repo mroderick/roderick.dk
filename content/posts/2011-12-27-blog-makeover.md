@@ -1,6 +1,6 @@
 ---
-date: '2011-12-27T00:00:00+0000'
-title: 'Blog makeover'
+date: "2011-12-27T00:00:00+0000"
+title: "Blog makeover"
 tags: []
 aliases: /2011/12/27/blog-makeover/
 showToc: false
@@ -31,11 +31,11 @@ Finally, I've gotten round to migrating my blog from [Webby](http://webby.rubyfo
 
 There are a few reasons for my move away from Webby and into the open arms of Jekyll.
 
-* I got really tired of writing Textile, even for the small amounts I write on this website, it got tedious. With Jekyll I write Markdown, and it's much more enjoyable.
-* Jekyll has an active community. The community around Webby is very small, and there are very few updates to the software.
-* People [share their Jekyll sites on github](https://github.com/mojombo/jekyll/wiki/Sites), so we can even learn from each other.
-* It seems I am always working on my website during xmas.
-* My dislike for writing Textile actually stifled my urge to write mostly anything on the old blog.
+- I got really tired of writing Textile, even for the small amounts I write on this website, it got tedious. With Jekyll I write Markdown, and it's much more enjoyable.
+- Jekyll has an active community. The community around Webby is very small, and there are very few updates to the software.
+- People [share their Jekyll sites on github](https://github.com/mojombo/jekyll/wiki/Sites), so we can even learn from each other.
+- It seems I am always working on my website during xmas.
+- My dislike for writing Textile actually stifled my urge to write mostly anything on the old blog.
 
 While I still don't have a new design (as in created by an actual designer), I am happier with the un-design of the current state than I ever was with the previous one.
 

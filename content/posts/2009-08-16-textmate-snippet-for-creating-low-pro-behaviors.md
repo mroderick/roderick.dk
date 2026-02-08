@@ -1,7 +1,7 @@
 ---
-date: '2009-08-16T00:00:00+0000'
-title: 'TextMate snippet for creating Low Pro Behaviors'
-tags: ['JavaScript']
+date: "2009-08-16T00:00:00+0000"
+title: "TextMate snippet for creating Low Pro Behaviors"
+tags: ["JavaScript"]
 aliases: /2009/08/16/textmate-snippet-for-creating-low-pro-behaviors/
 showToc: false
 TocOpen: false
@@ -56,9 +56,9 @@ var MyBehavior = Behavior.create({
 
   /**
    * MyBehavior#initialize( [ opts = { myOption : 'myOptionDefaultValue' }] )
-   * - options (Object): Will be merged with the default options, good for 
+   * - options (Object): Will be merged with the default options, good for
    *   overriding texts, urls, dom references, etc
-   * Gets called when the element is loaded 
+   * Gets called when the element is loaded
    **/
   initialize : function( opts ){
     this.options = (this.options).merge( opts ).toObject();

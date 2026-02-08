@@ -1,7 +1,7 @@
 ---
-date: '2020-08-04T16:37:00+0200'
+date: "2020-08-04T16:37:00+0200"
 title: "mdn.io, I'm feeling lucky"
-tags: ['Work']
+tags: ["Work"]
 aliases: /2020/08/04/mdn-io-i-m-feeling-lucky/
 showToc: false
 TocOpen: false
@@ -26,6 +26,7 @@ UseHugoToc: false
 #     relative: false # when using page bundles set this to true
 #     hidden: true # only hide on current single page
 ---
+
 I often need to look up details in the [Mozilla Developer Network documentation](https://developer.mozilla.org/en-US/) (MDN). It's a great resource, that keeps getting better every year.
 
 A few years ago, I learned that lovely people have set up a very convenient "url shortener" / "search service" to do an "I'm feeling lucky" search on the MDN documentation.

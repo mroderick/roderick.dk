@@ -1,7 +1,7 @@
 ---
-date: '2020-01-16T10:59:00+0000'
-title: 'Available for hire!'
-tags: ['Work']
+date: "2020-01-16T10:59:00+0000"
+title: "Available for hire!"
+tags: ["Work"]
 aliases: /2020/01/16/available-for-hire/
 showToc: false
 TocOpen: false
@@ -37,25 +37,25 @@ I enjoy improving existing applications as much as working on green field applic
 
 ### Organisation
 
-* [People][p1] [first][p2] [organisations][p3]
-* Diversity and inclusion
-* Effective, open, bi-directional communication ([NVC](https://en.wikipedia.org/wiki/Nonviolent_Communication))
+- [People][p1] [first][p2] [organisations][p3]
+- Diversity and inclusion
+- Effective, open, bi-directional communication ([NVC](https://en.wikipedia.org/wiki/Nonviolent_Communication))
 
 ### Product / project
 
-* [Users][uf1] [first][uf2] [thinking][uf3]
-* [User Story Mapping][usm]
-* [NoEstimates][ne], [forecasting][fc]
-* Open minded pragmatism
+- [Users][uf1] [first][uf2] [thinking][uf3]
+- [User Story Mapping][usm]
+- [NoEstimates][ne], [forecasting][fc]
+- Open minded pragmatism
 
 ### Technology
 
-* [Lean Web](https://leanweb.dev)
-* [Progressive Enhancement](https://en.wikipedia.org/wiki/Progressive_enhancement)
-* [Web standards][web-standards]
-* [ECMA-262][ecma-262]
-* [Accessiblity (WAI)](https://www.w3.org/WAI/)
-* [System fonts][sys-font]
+- [Lean Web](https://leanweb.dev)
+- [Progressive Enhancement](https://en.wikipedia.org/wiki/Progressive_enhancement)
+- [Web standards][web-standards]
+- [ECMA-262][ecma-262]
+- [Accessiblity (WAI)](https://www.w3.org/WAI/)
+- [System fonts][sys-font]
 
 ## What I am hoping to find in my next role
 
@@ -69,9 +69,9 @@ Having said that, I am looking for opportunities that will allow me to pursue a 
 
 ## Locations
 
-* Berlin, Germany
-* Las Palmas de Gran Canaria, Spain
-* Remote
+- Berlin, Germany
+- Las Palmas de Gran Canaria, Spain
+- Remote
 
 ## Interested?
 

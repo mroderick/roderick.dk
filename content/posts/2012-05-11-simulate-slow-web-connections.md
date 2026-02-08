@@ -1,7 +1,7 @@
 ---
-date: '2012-05-11T00:00:00+0000'
-title: 'Simulate slow web connections'
-tags: ['Web', 'Work']
+date: "2012-05-11T00:00:00+0000"
+title: "Simulate slow web connections"
+tags: ["Web", "Work"]
 aliases: /2012/05/11/simulate-slow-web-connections/
 showToc: false
 TocOpen: false
@@ -27,7 +27,7 @@ UseHugoToc: false
 #     hidden: true # only hide on current single page
 ---
 
-While you're working on your own computer and accessing webapps running on that computer, response times are going to be __fast__. Most of the day, this is what we want. Working on your local machine, your webapp should be as fast as you can possibly make it.
+While you're working on your own computer and accessing webapps running on that computer, response times are going to be **fast**. Most of the day, this is what we want. Working on your local machine, your webapp should be as fast as you can possibly make it.
 
 But, for some situations, we need to examine how our application behaves when network connections are suboptimal.
 
@@ -85,9 +85,9 @@ Here's an example.
 
 ![Throttling options in Charles Proxy](/images/2012-05-11-simulate-slow-web-connections/charles-reverse-proxy.png)
 
-I would like remote clients to connect on port __58549__<br/>
-I would like to direct trafic to localhost, e.g. __127.0.0.1__<br/>
-My web application is running on port __8000__
+I would like remote clients to connect on port **58549**<br/>
+I would like to direct trafic to localhost, e.g. **127.0.0.1**<br/>
+My web application is running on port **8000**
 
 My computer's name is morgbook, so the bonjour name that it publishes on the local network is morgbook.local.
 

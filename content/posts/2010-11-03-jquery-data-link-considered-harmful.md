@@ -1,7 +1,7 @@
 ---
-date: '2010-11-03T00:00:00+0000'
-title: 'jQuery Data Link considered harmful'
-tags: ['JavaScript', 'Work']
+date: "2010-11-03T00:00:00+0000"
+title: "jQuery Data Link considered harmful"
+tags: ["JavaScript", "Work"]
 aliases: /2010/11/03/jquery-data-link-considered-harmful/
 showToc: false
 TocOpen: false
@@ -27,11 +27,11 @@ UseHugoToc: false
 #     hidden: true # only hide on current single page
 ---
 
-"Considered harmful" has always been good link bait. 
+"Considered harmful" has always been good link bait.
 
 I am not trying to start a flamewar, but merely express my concerns over the recent decisions of the jQuery team to actively endorse plugins that deserves no special treatment from any other plugins out there.
 
-If you have different opinions, please do respond in the comments or write a blog post expressing them. 
+If you have different opinions, please do respond in the comments or write a blog post expressing them.
 
 ## Extending globals with interesting side effects
 
@@ -47,18 +47,18 @@ But, Prototype is not all double rainbows and have certainly made some mistakes 
 
 For a history lesson on why all of this is considered bad practice:
 
-* <http://erik.eae.net/archives/2005/06/06/22.13.54/>
-* <http://perfectionkills.com/whats-wrong-with-extending-the-dom/>
-* <http://andrewdupont.net/2006/05/18/javascript-associative-arrays-considered-harmful/>
-* <http://www.nczonline.net/blog/2010/03/02/maintainable-javascript-dont-modify-objects-you-down-own/>
+- <http://erik.eae.net/archives/2005/06/06/22.13.54/>
+- <http://perfectionkills.com/whats-wrong-with-extending-the-dom/>
+- <http://andrewdupont.net/2006/05/18/javascript-associative-arrays-considered-harmful/>
+- <http://www.nczonline.net/blog/2010/03/02/maintainable-javascript-dont-modify-objects-you-down-own/>
 
 What the whole discussion about not extending globals and not modifying objects you don't own boils down to is this:
 
-* Collisions causes very hard to find bugs
-* Avoiding collisions is very, very difficult
-* DEVELOPERS DON'T LIKE SURPRISES
+- Collisions causes very hard to find bugs
+- Avoiding collisions is very, very difficult
+- DEVELOPERS DON'T LIKE SURPRISES
 
-##  Data in the DOM is the new extended prototype ^h global scope
+## Data in the DOM is the new extended prototype ^h global scope
 
 Fast forward to present day.
 
@@ -66,7 +66,7 @@ Today, the most popular JavaScript library is undeniably jQuery.
 
 jQuery is where a lot of newcomers to JavaScript will start. This is where they will pick up the tools, the practices and look for guidance. With the current landscape of libraries, that's not a bad choice.
 
-Just like Prototype paved the way for developers to get started with JavaScript, jQuery today makes it *easy* to get started and to get some work done.
+Just like Prototype paved the way for developers to get started with JavaScript, jQuery today makes it _easy_ to get started and to get some work done.
 
 There is plenty of good learning material about jQuery to absorb out there, both on the internet and even in bookstores and libraries.
 
@@ -94,7 +94,7 @@ I am surprised that someone as experienced as John Resig is [actually endorsing 
 
 The plugin has even [made it's way into the official documentation of jQuery](http://api.jquery.com/category/plugins/data-link/), even though it can by no stretch of the imagination be considered of the same quality as the rest of the official jQuery code.
 
-Data Link *has no automated test cases*. Go [see for yourself at GitHub](https://github.com/jquery/jquery-datalink).
+Data Link _has no automated test cases_. Go [see for yourself at GitHub](https://github.com/jquery/jquery-datalink).
 
 If there are no test cases, how are we supposed to assess the maturity of the code? How are we going to contribute to it it, without causing defects?
 
@@ -126,7 +126,7 @@ In a comment to the question of [How could YUI3 improve its image compared to jQ
 
 He couldn't be more right.
 
-Data Link is by no means simple, and it's use will lead to a a lot of interesting collisions. 
+Data Link is by no means simple, and it's use will lead to a a lot of interesting collisions.
 
 Accepting Data Link as an official plugin and having jQuery endorse it, is in my opinion a mistake, especially considering it's maturity.
 

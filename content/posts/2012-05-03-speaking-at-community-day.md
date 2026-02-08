@@ -1,7 +1,7 @@
 ---
-date: '2012-05-03T00:00:00+0000'
-title: 'Speaking at Community Day 2012'
-tags: ['Work']
+date: "2012-05-03T00:00:00+0000"
+title: "Speaking at Community Day 2012"
+tags: ["Work"]
 aliases: /2012/05/03/speaking-at-community-day/
 showToc: false
 TocOpen: false

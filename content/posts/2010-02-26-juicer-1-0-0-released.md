@@ -1,7 +1,7 @@
 ---
-date: '2010-02-26T00:00:00+0000'
-title: 'Juicer 1.0.0 Released'
-tags: ['Ruby', 'Web', 'Work']
+date: "2010-02-26T00:00:00+0000"
+title: "Juicer 1.0.0 Released"
+tags: ["Ruby", "Web", "Work"]
 aliases: /2010/02/26/juicer-1-0-0-released/
 showToc: false
 TocOpen: false
@@ -33,11 +33,11 @@ For those unfamiliar with [Juicer](http://github.com/cjohansen/juicer), it's an 
 
 I have written about [speeding up your Webby site with Juicer](/2009/11/04/speeding-up-your-webby-site-with-juicer/) previously, and with the new version there are even more features to like. These are the new features that exites me the most
 
-* Support for [Google Closure Compiler](http://code.google.com/closure/compiler/)
-* Support for embedding images into stylesheets using data-uri's (my contribution)
-* Ruby 1.9 support
+- Support for [Google Closure Compiler](http://code.google.com/closure/compiler/)
+- Support for embedding images into stylesheets using data-uri's (my contribution)
+- Ruby 1.9 support
 
 Christian has done a lot of work tidying up the codebase, making it very flexible and easy to work with. So if Juicer also exites you, I suggest you get involved in making it even better.
 
-* [Juicer on Github](http://github.com/cjohansen/juicer) - includes all the details you need to get started with Juicer
-* [Juicer Google Group](http://groups.google.com/group/juicer-dev) - where you go to discuss all things Juicer
+- [Juicer on Github](http://github.com/cjohansen/juicer) - includes all the details you need to get started with Juicer
+- [Juicer Google Group](http://groups.google.com/group/juicer-dev) - where you go to discuss all things Juicer

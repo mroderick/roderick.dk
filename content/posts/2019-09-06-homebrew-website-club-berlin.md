@@ -1,7 +1,7 @@
 ---
-date: '2019-09-06T00:00:00+00:00'
-title: 'Homebrew Website Club, Berlin'
-tags: ['HWC', 'Web', 'Work']
+date: "2019-09-06T00:00:00+00:00"
+title: "Homebrew Website Club, Berlin"
+tags: ["HWC", "Web", "Work"]
 aliases: /2019/09/06/homebrew-website-club-berlin/
 showToc: false
 TocOpen: false
@@ -33,10 +33,10 @@ UseHugoToc: false
 >
 > Want to blog more but struggling with:
 >
-> * ideas
-> * momentum
-> * confidence
-> * writing skills
+> - ideas
+> - momentum
+> - confidence
+> - writing skills
 >
 > Join a gathering of like-minded people and get friendly support with writing, creating, and anything to do with using and improving your own website!
 
@@ -57,7 +57,6 @@ Everyone!
 ### When?
 
 The first event will be on [Wednesday, 2019-09-18](https://indieweb.org/events/2019-09-18-homebrew-website-club) from 18.30.
-
 
 ### Venue
 

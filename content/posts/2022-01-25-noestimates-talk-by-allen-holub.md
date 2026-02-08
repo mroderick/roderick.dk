@@ -1,6 +1,6 @@
 ---
-date: '2022-01-25T14:20:00+0100'
-title: '#NoEstimates, talk by Allen Holub'
+date: "2022-01-25T14:20:00+0100"
+title: "#NoEstimates, talk by Allen Holub"
 tags: ["link"]
 aliases: /2022/01/25/noestimates-talk-by-allen-holub/
 showToc: false

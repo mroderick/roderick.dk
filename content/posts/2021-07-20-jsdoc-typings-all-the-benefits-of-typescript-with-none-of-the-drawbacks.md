@@ -1,7 +1,7 @@
 ---
-date: '2021-07-20T14:30:00+0200'
-title: 'JSDoc typings: all the benefits of TypeScript, with none of the drawbacks'
-tags: ['Link', 'TypeScript', 'JavaScript']
+date: "2021-07-20T14:30:00+0200"
+title: "JSDoc typings: all the benefits of TypeScript, with none of the drawbacks"
+tags: ["Link", "TypeScript", "JavaScript"]
 aliases: /2021/07/20/jsdoc-typings-all-the-benefits-of-typescript-with-none-of-the-drawbacks/
 showToc: false
 TocOpen: false

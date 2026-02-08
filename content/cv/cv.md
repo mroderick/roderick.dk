@@ -29,11 +29,11 @@ Code craftsmanship and developing good practices excites me a lot more than this
 
 These books have been influential to me. You will often hear me recommend them to other developers:
 
-* [Clean Code][cleancode]
-* [Eloquent JavaScript][eloquent-js]
-* [Refactoring][refactoring]
-* [Release It!][release-it]
-* [Working Effectively with Legacy Code][legacycode]
+- [Clean Code][cleancode]
+- [Eloquent JavaScript][eloquent-js]
+- [Refactoring][refactoring]
+- [Release It!][release-it]
+- [Working Effectively with Legacy Code][legacycode]
 
 As a natural part of my work, I work with other engineers to hone their skills, especially around refactoring and unit testing. I am a [core member of the Sinon.JS project][sinon]. I'm a fan of pair programming and am mentoring junior engineers and beginners in my free time.
 
@@ -45,28 +45,27 @@ Since 2001 I have worked mostly as a freelance frontend specialist and have expe
 
 ### Agents
 
-* [ProData][prodata]
-* [Strand & Donslund][s-d]
-* [7N][7n]
-* [Equal Experts][ee]
+- [ProData][prodata]
+- [Strand & Donslund][s-d]
+- [7N][7n]
+- [Equal Experts][ee]
 
 ### Employers/clients (selection)
 
-* [Apple Inc.][aapl], I worked on internal tools in Maps
-* [Zalando SE][zalando], Online retailer
-* [Brandwatch GmbH][brandwatch]
-* [Imagine Easy Solutions][imagine], "A Tiny Company with Big Ideas"
-* [TDC][tdc], Denmark's largest telco
-* [AKQA][akqa], international digital agency, I worked with the Berlin office
-* [Nokia][nok], I worked on a geo-based social timline product
-* [Coop][coop], retail enterprise
-* [ZYB][zyb], venture funded startup acquired by Vodafone
-* [Semler IT][semler], IT supplier and integrator to automotive sector
-* [IT-Jobbank][itjob], bootstrapped startup acquired by StepStone
-* [Valtech A/S][valtech]
-* [Software Innovation][s-i]
-* [7N a/s][7n]
-
+- [Apple Inc.][aapl], I worked on internal tools in Maps
+- [Zalando SE][zalando], Online retailer
+- [Brandwatch GmbH][brandwatch]
+- [Imagine Easy Solutions][imagine], "A Tiny Company with Big Ideas"
+- [TDC][tdc], Denmark's largest telco
+- [AKQA][akqa], international digital agency, I worked with the Berlin office
+- [Nokia][nok], I worked on a geo-based social timline product
+- [Coop][coop], retail enterprise
+- [ZYB][zyb], venture funded startup acquired by Vodafone
+- [Semler IT][semler], IT supplier and integrator to automotive sector
+- [IT-Jobbank][itjob], bootstrapped startup acquired by StepStone
+- [Valtech A/S][valtech]
+- [Software Innovation][s-i]
+- [7N a/s][7n]
 
 ## Recommendations
 
@@ -74,30 +73,30 @@ Recommendations by past clients, employers and co-workers are available on [my l
 
 ## Profiles
 
-* GitHub: https://github.com/mroderick
-* LinkedIn: http://www.linkedin.com/in/morganroderick
+- GitHub: https://github.com/mroderick
+- LinkedIn: http://www.linkedin.com/in/morganroderick
 
 ## Spoken Languages
 
-* Danish: Fluent
-* English: Fluent
-* Swedish: Some
-* German: \~B1
+- Danish: Fluent
+- English: Fluent
+- Swedish: Some
+- German: \~B1
 
 ## Education and certifications
 
-* 1999 Datanom - single course (Object Oriented Development)
-* 1996 – 1998 [Datamatiker][datamatiker] (Academy Profession Degree in Computer Science) at [Aarhus Business College][aabc].
-* 1990 – 1993 Matematisk studenter eksamen at [Thisted Gymnasium][thisted-gym]
+- 1999 Datanom - single course (Object Oriented Development)
+- 1996 – 1998 [Datamatiker][datamatiker] (Academy Profession Degree in Computer Science) at [Aarhus Business College][aabc].
+- 1990 – 1993 Matematisk studenter eksamen at [Thisted Gymnasium][thisted-gym]
 
 ## Community work
 
-* Volunteer coach at [codebar][codebar] in Berlin
-* Volunteer mentor at [CoderDojo][dojo] events in Berlin
-* Volunteer cook at [Homeless Veggie Dinner][hvd] in Berlin, ~10 years
-* Co-founded and ran [CopenhagenJS][copenhagenjs] for ~18 months, until I moved to Berlin
-* Occasional speaker at user groups ([BerlinJS][berlinjs], [CopenhagenJS][copenhagenjs], [AsyncJS][asyncjs])
-* Occasional speaker at conferences ([Front Trends 2010][ftrends], [Reject.JS 2010][rejectjs])
+- Volunteer coach at [codebar][codebar] in Berlin
+- Volunteer mentor at [CoderDojo][dojo] events in Berlin
+- Volunteer cook at [Homeless Veggie Dinner][hvd] in Berlin, ~10 years
+- Co-founded and ran [CopenhagenJS][copenhagenjs] for ~18 months, until I moved to Berlin
+- Occasional speaker at user groups ([BerlinJS][berlinjs], [CopenhagenJS][copenhagenjs], [AsyncJS][asyncjs])
+- Occasional speaker at conferences ([Front Trends 2010][ftrends], [Reject.JS 2010][rejectjs])
 
 [7n]: http://7n.dk/
 [aabc]: http://aabc.dk/

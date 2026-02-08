@@ -1,7 +1,7 @@
 ---
-date: '2008-11-16T00:00:00+0000'
-title: 'Fixing Bus Error / Segfault in Rcov'
-tags: ['Ruby', 'Work']
+date: "2008-11-16T00:00:00+0000"
+title: "Fixing Bus Error / Segfault in Rcov"
+tags: ["Ruby", "Work"]
 aliases: /2008/11/16/fixing-bus-error-segfault-in-rcov/
 showToc: false
 TocOpen: false
@@ -29,7 +29,7 @@ UseHugoToc: false
 
 We have recently run into problems with "rcov":http://eigenclass.org/hiki/rcov crashing with seemingly random errors, like
 
-``` shell
+```shell
 /Library/Ruby/Gems/1.8/gems/activesupport-2.1.1/lib/active_support/core_ext/symbol.rb:11: [BUG] Bus Error ruby 1.8.6 (2008-03-03) [universal-darwin9.0]
 ```
 
@@ -41,13 +41,13 @@ Chad Humphries has kindly put together a [replacement rcov gem (spicycode-rcov)]
 
 To use the spicycode-rcov gem, you must first get rid of your old rcov gem:
 
-``` shell
+```shell
 sudo gem uninstall rcov
 ```
 
 And then just install spicycode-rcov
 
-``` shell
+```shell
 sudo gem install spicycode-rcov
 ```
 

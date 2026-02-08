@@ -1,7 +1,7 @@
 ---
-date: '2014-08-28T00:00:00+0000'
-title: 'cv as markdown'
-tags: ['Work']
+date: "2014-08-28T00:00:00+0000"
+title: "cv as markdown"
+tags: ["Work"]
 aliases: /2014/08/28/cv-as-markdown/
 showToc: false
 TocOpen: false
@@ -43,13 +43,13 @@ For a while I've had a [Bootstrap](http://getbootstrap.com) based cv on this sit
 
 I wanted to switch to having the source of my cv in [Markdown](http://daringfireball.net/projects/markdown/) for a number of reasons:
 
-* It's as easy as writing an email
-* It's familiar, I use it every day for
-    * [pull requests on GitHub](https://help.github.com/articles/creating-a-pull-request)
-    * writing documentation for the software I work on
-* I can paste the source document into a plain text email, and everyone can immediately read it
-* I can easily generate binary formats for recruiters that prefer that
-* It's easy to read diffs in git
+- It's as easy as writing an email
+- It's familiar, I use it every day for
+    - [pull requests on GitHub](https://help.github.com/articles/creating-a-pull-request)
+    - writing documentation for the software I work on
+- I can paste the source document into a plain text email, and everyone can immediately read it
+- I can easily generate binary formats for recruiters that prefer that
+- It's easy to read diffs in git
 
 It took me a bit to do all the editing from HTML to Markdown, but now my [cv is available as Markdown](/cv/cv.md). From now on, updating it will be as easy as all the other editing I do on a daily basis.
 
@@ -81,11 +81,11 @@ Sure, it's not the sexiest PDF the world has seen, but I am optimising for autho
 
 In the normal Jekyll workflow, Jekyll builds your site out of the source files and pours them into a `_site` folder (removing anything that was already there). Jekyll does not convert Markdown to PDF, so that'll have to happen after the site is generated and before deploy.
 
-I use a [Rakefile](http://en.wikipedia.org/wiki/Rake_(software)) to build and deploy this site, so with a few updates, `rake` can now be used for generating a PDF version of the cv.
+I use a [Rakefile](<http://en.wikipedia.org/wiki/Rake_(software)>) to build and deploy this site, so with a few updates, `rake` can now be used for generating a PDF version of the cv.
 
 The Rakefile now looks like this
 
-``` ruby
+```ruby
 desc 'Build CV to PDF with pandoc'
 task :cv  => [:build] do
     sh 'pandoc _site/cv/cv.md -o _site/cv/cv.pdf'

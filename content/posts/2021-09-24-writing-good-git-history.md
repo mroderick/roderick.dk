@@ -1,7 +1,7 @@
 ---
-date: '2021-09-24T11:29:00+0100'
-title: 'Writing good git history'
-tags: ['Git', 'Link']
+date: "2021-09-24T11:29:00+0100"
+title: "Writing good git history"
+tags: ["Git", "Link"]
 aliases: /2021/09/24/writing-good-git-history/
 showToc: false
 TocOpen: false
@@ -35,8 +35,8 @@ In the past I've given a talk about crafting a lovely git narrative. Thankfully,
 
 However, both of these two talks are recorded, and are much better than mine.
 
-* [How to Craft Your Commit History][1] by Tatiana Stantonian
-* [Getting more from Git][2] by Alice Bartlett
+- [How to Craft Your Commit History][1] by Tatiana Stantonian
+- [Getting more from Git][2] by Alice Bartlett
 
 At the time of recording, both these people worked at Financial Times. It's almost as if that organisation cares about good use of git... maybe I should apply to work there 🤔
 
