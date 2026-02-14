@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "CV for Morgan Roderick"
 hidemeta: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: false
@@ -8,22 +8,14 @@ ShowShareButtons: false
 ShowRssButtonInSectionTermList: false
 ---
 
-[← Back to home](/)
-
-# CV for Morgan Roderick
-
-Full stack senior software engineer with 20+ years experience
+Full stack software engineer with 25+ years experience
 
 ## Contact
 
-| Morgan Roderick
-| Raumerstr. 40
-| 10437 Berlin
-| Germany
-
-| E-mail: [morgan@roderick.dk](mailto:morgan@roderick.dk)
-| Phone: +49 (0) 152 0723 9351
-| Web: https://roderick.dk
+- Email: [morgan@roderick.dk](mailto:morgan@roderick.dk)
+- Phone: +49 (0) 152 0723 9351
+- Web: [roderick.dk](https://roderick.dk)
+- Location: Berlin, Germany
 
 I prefer e-mail over phone calls for most things.
 
@@ -31,33 +23,43 @@ I prefer e-mail over phone calls for most things.
 
 I am a seasoned software engineer with a couple of decades of professional experience. My primary focus is on building high quality software products with long life span and low effort maintenance.
 
-In the next year or two, I want to continue my work as Lead Engineer, aiming towards a role as Staff Engineer or Principal Engineer. I am particulary interested in learning golang, exploring Edge Side Includes and continue my work of mentoring/growing software engineers.
+I am aiming towards a role as Staff Engineer or Principal Engineer. I am particulary interested in learning golang, and continue my work of mentoring/growing software engineers.
 
 I have extensive experience with building and maintaining [Single Page Applications][spa], highly resilient web applications using [progressive enhancement][pr-enh] as well as high quality JavaScript libraries (see [Sinon.JS](https://sinonjs.org)). I am equally comfortable working both client- and server-side.
 
 Over the time of my career I've naturally spent time with many different programming languages, libraries and frameworks, servers, etc. Please ask for specifics.
 
-Code craftsmanship and developing good practices excites me a lot more than this ephemeral frameworks, build tools, transpilers, etc.. I think that great outcomes can be achieved by applying good practices with carefully chosen tools.
+Code craft and developing good practices excite me a lot more than ephemeral frameworks, build tools, transpilers, etc.. I think that great outcomes can be achieved by applying good practices with carefully chosen tools.
 
 These books have been influential to me. You will often hear me recommend them to other developers:
 
 - [Clean Code][cleancode]
 - [Eloquent JavaScript][eloquent-js]
+- [Implementing Service Level Objectives][implslo]
+- [Observability Engineering][obseng]
 - [Refactoring][refactoring]
 - [Release It!][release-it]
 - [Working Effectively with Legacy Code][legacycode]
 
 As a natural part of my work, I work with other engineers to hone their skills, especially around refactoring and unit testing. I am a [core member of the Sinon.JS project][sinon]. I'm a fan of pair programming and am mentoring junior engineers and beginners in my free time.
 
-Outside of my work life, I am passionate about cooking and photography, as well as participating in community work.
+Outside of my work life, I am passionate about cooking, motorcycling and photography, as well as participating in community work.
+
+## Current role
+
+Senior Engineering Manager for the Payments group in [Pleo][pleo] (April 2022 – present)
+
+- Managed ~15 engineers across three teams
+- Led teams to adopt better engineering practices and achieve improved operational maturity
+- Resulted in fewer and smaller incidents, improved DORA metrics
+- Introduced resilience patterns such as [circuit breaker](https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker)
+- Introduced [canonicial log lines](https://loggingsucks.com)
 
 ## Experience
 
-Since 2001 I have worked mostly as a freelance frontend specialist and have experience working with companies in sizes ranging from two to more than 100.000 employees.
-
 ### Agents
 
-- [ProData][prodata]
+- [Aplayers](https://www.aplayers.se)
 - [Strand & Donslund][s-d]
 - [7N][7n]
 - [Equal Experts][ee]
@@ -103,7 +105,7 @@ Recommendations by past clients, employers and co-workers are available on [my l
 
 ## Community work
 
-- Volunteer coach at [codebar][codebar] in Berlin
+- Volunteer coach and organiser of [codebar][codebar]'s Berlin chapter
 - Volunteer mentor at [CoderDojo][dojo] events in Berlin
 - Volunteer cook at [Homeless Veggie Dinner][hvd] in Berlin, ~10 years
 - Co-founded and ran [CopenhagenJS][copenhagenjs] for ~18 months, until I moved to Berlin
@@ -139,8 +141,8 @@ Recommendations by past clients, employers and co-workers are available on [my l
 [leob]: http://www.leoburnett.com/
 [linkedin]: http://www.linkedin.com/in/morganroderick
 [nok]: http://www.nokia.com/global/
+[pleo]: https://www.pleo.io
 [pr-enh]: https://en.wikipedia.org/wiki/Progressive_enhancement
-[prodata]: http://www.prodata.dk/
 [refactoring]: http://www.refactoring.com
 [rejectjs]: http://rejectjs.org
 [release-it]: https://pragprog.com/book/mnee/release-it
@@ -156,3 +158,5 @@ Recommendations by past clients, employers and co-workers are available on [my l
 [valtech]: http://valtech.dk
 [zalando]: https://www.zalando.de
 [zyb]: https://zyb.com/
+[obseng]: https://www.oreilly.com/library/view/observability-engineering/9781492076438/
+[implslo]: https://www.oreilly.com/library/view/implementing-service-level/9781492076803/
