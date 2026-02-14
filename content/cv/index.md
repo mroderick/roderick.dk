@@ -12,6 +12,7 @@ Full stack software engineer with 25+ years experience
 
 ## Contact
 
+- Full name: Morgan Majgaard Roderick
 - Email: [morgan@roderick.dk](mailto:morgan@roderick.dk)
 - Phone: +49 (0) 152 0723 9351
 - Web: [roderick.dk](https://roderick.dk)
