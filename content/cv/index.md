@@ -1,3 +1,15 @@
+---
+title: "CV"
+hidemeta: true
+ShowBreadCrumbs: false
+ShowPostNavLinks: false
+ShowReadingTime: false
+ShowShareButtons: false
+ShowRssButtonInSectionTermList: false
+---
+
+[← Back to home](/)
+
 # CV for Morgan Roderick
 
 Full stack senior software engineer with 20+ years experience
