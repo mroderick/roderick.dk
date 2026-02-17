@@ -71,9 +71,9 @@ Let's see some code already!
 // subscribing to messages is quite easy,
 // first we'll create a subscriber function
 var logToConsole = function (message, data) {
-    // once a message arrives, it'll get logged to the console
-    // data passed in messages can be whatever you want
-    console.log(message, data);
+  // once a message arrives, it'll get logged to the console
+  // data passed in messages can be whatever you want
+  console.log(message, data);
 };
 
 // every subscription gives you a token,

@@ -19,10 +19,10 @@ ShowPostNavLinks: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
-    image: "images/pexels-795059216-19893407.jpg"
-    alt: "Brick wall with shadow"
-    caption: "Photo by 佳瑋 劉: https://www.pexels.com/photo/close-up-of-bricks-wall-19893407/"
-    relative: false
+  image: "images/pexels-795059216-19893407.jpg"
+  alt: "Brick wall with shadow"
+  caption: "Photo by 佳瑋 劉: https://www.pexels.com/photo/close-up-of-bricks-wall-19893407/"
+  relative: false
 ---
 
 Friday afternoon I received a call from my nephew Johan, who is going into business for himself. Johan is a bricklayer and doesn't have experience running his own business, or with setting up an online presence for a small business.

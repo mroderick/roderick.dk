@@ -55,19 +55,19 @@ Let's get you started with writing (fast) failing code!
 
 ```javascript
 function divide(dividend, divisor) {
-    FailFast.assertNumber(
-        dividend,
-        'divide: you must pass a number as the "dividend" argument'
-    );
-    FailFast.assertNumber(
-        divisor,
-        'divide: you must pass a number as the "divisor" argument'
-    );
-    FailFast.assert(
-        divisor !== 0,
-        "divide: cannot divide with a divisor of zero"
-    );
-    return dividend / divisor;
+  FailFast.assertNumber(
+    dividend,
+    'divide: you must pass a number as the "dividend" argument'
+  );
+  FailFast.assertNumber(
+    divisor,
+    'divide: you must pass a number as the "divisor" argument'
+  );
+  FailFast.assert(
+    divisor !== 0,
+    "divide: cannot divide with a divisor of zero"
+  );
+  return dividend / divisor;
 }
 
 divide("1", 2); // will throw exception

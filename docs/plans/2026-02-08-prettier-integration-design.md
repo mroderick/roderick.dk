@@ -109,21 +109,21 @@ Add setup section:
 ## Setup
 
 1. Install Node.js dependencies:
-    ```sh
-    npm install
-    ```
+   ```sh
+   npm install
+   ```
 ````
 
 2. Install Hugo modules:
 
-    ```sh
-    hugo mod tidy
-    ```
+   ```sh
+   hugo mod tidy
+   ```
 
 3. Run development server:
-    ```sh
-    hugo server
-    ```
+   ```sh
+   hugo server
+   ```
 
 ## Code Formatting
 

@@ -53,17 +53,17 @@ Let's illustrate with an example:
 // the first exclamation mark coerces and negates a truthy expression to `false`
 // second exclamation mark negates `false` to `true`
 if (!!someValue && someOtherValue) {
-    // some action
+  // some action
 }
 
 // will anyone detect the mistake of removing one exclamation mark?
 if (!someValue && someOtherValue) {
-    // some action
+  // some action
 }
 
 // or detect the mistake of adding third exclamation mark?
 if (!!!someValue && someOtherValue) {
-    // some action
+  // some action
 }
 ```
 
@@ -71,7 +71,7 @@ Instead of using double exclamation marks, which opens the door for these regres
 
 ```js
 if (Boolean(someValue) && Boolean(someOtherValue)) {
-    // some action
+  // some action
 }
 ```
 
@@ -80,7 +80,7 @@ Since we're already working in this area of the codebase, we can improve it furt
 ```js
 const someConditionIsMet = Boolean(someValue) && Boolean(someOtherValue);
 if (someConditionIsMet) {
-    // some action
+  // some action
 }
 ```
 

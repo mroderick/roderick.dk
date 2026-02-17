@@ -20,11 +20,11 @@ ShowPostNavLinks: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
-    image: "/images/homebrew-website-club.jpg" # image path/url
-    alt: "Homebrew Website Club retro graphics image" # alt text
-    # caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+  image: "/images/homebrew-website-club.jpg" # image path/url
+  alt: "Homebrew Website Club retro graphics image" # alt text
+  # caption: "<text>" # display caption under cover
+  relative: false # when using page bundles set this to true
+  hidden: true # only hide on current single page
 ---
 
 ![Homebrew Website Club retro graphics image](/images/homebrew-website-club.jpg)

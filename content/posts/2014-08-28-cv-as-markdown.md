@@ -45,8 +45,8 @@ I wanted to switch to having the source of my cv in [Markdown](http://daringfire
 
 - It's as easy as writing an email
 - It's familiar, I use it every day for
-    - [pull requests on GitHub](https://help.github.com/articles/creating-a-pull-request)
-    - writing documentation for the software I work on
+  - [pull requests on GitHub](https://help.github.com/articles/creating-a-pull-request)
+  - writing documentation for the software I work on
 - I can paste the source document into a plain text email, and everyone can immediately read it
 - I can easily generate binary formats for recruiters that prefer that
 - It's easy to read diffs in git

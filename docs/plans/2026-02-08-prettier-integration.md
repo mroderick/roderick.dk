@@ -22,20 +22,20 @@ Create the file with Prettier, Husky, and lint-staged dependencies:
 
 ```json
 {
-    "name": "roderick.dk",
-    "version": "1.0.0",
-    "private": true,
-    "scripts": {
-        "prepare": "husky"
-    },
-    "devDependencies": {
-        "husky": "^9.1.7",
-        "lint-staged": "^15.2.11",
-        "prettier": "^3.4.2"
-    },
-    "lint-staged": {
-        "*.{md,yaml,yml,json,html,js}": "prettier --write"
-    }
+  "name": "roderick.dk",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^15.2.11",
+    "prettier": "^3.4.2"
+  },
+  "lint-staged": {
+    "*.{md,yaml,yml,json,html,js}": "prettier --write"
+  }
 }
 ```
 
@@ -65,7 +65,7 @@ Create configuration with single override:
 
 ```json
 {
-    "trailingComma": "none"
+  "trailingComma": "none"
 }
 ```
 
@@ -132,17 +132,17 @@ Add PostToolUse hooks (for Edit and Write only) and permissions:
 
 ```json
 {
-    "hooks": {
-        "PostToolUse(Edit)": "npx prettier --write {{file_paths}}",
-        "PostToolUse(Write)": "npx prettier --write {{file_paths}}"
-    },
-    "permissions": {
-        "allow": [
-            "Bash(npm install:*)",
-            "Bash(npx prettier:*)",
-            "Bash(npx husky:*)"
-        ]
-    }
+  "hooks": {
+    "PostToolUse(Edit)": "npx prettier --write {{file_paths}}",
+    "PostToolUse(Write)": "npx prettier --write {{file_paths}}"
+  },
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npx prettier:*)",
+      "Bash(npx husky:*)"
+    ]
+  }
 }
 ```
 
@@ -185,21 +185,21 @@ Personal website built using Hugo & Pagemod
 ## Setup
 
 1. Install Node.js dependencies:
-    ```sh
-    npm install
-    ```
+   ```sh
+   npm install
+   ```
 ````
 
 2. Install Hugo modules:
 
-    ```sh
-    hugo mod tidy
-    ```
+   ```sh
+   hugo mod tidy
+   ```
 
 3. Run development server:
-    ```sh
-    hugo server
-    ```
+   ```sh
+   hugo server
+   ```
 
 ## Code Formatting
 

@@ -48,7 +48,7 @@ To avoid pollution the rest of the website for users with modern browsers, I pre
 
 ```html
 <!--[if lte IE 7]>
-    <script type="text/javascript" src="/javascripts/ie6.js"></script>
+  <script type="text/javascript" src="/javascripts/ie6.js"></script>
 <![endif]-->
 ```
 
