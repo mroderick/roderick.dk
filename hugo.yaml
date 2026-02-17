@@ -14,9 +14,9 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  title: "roderick.dk"
+  description: "Morgan Roderick's blog"
+  keywords: ["Blog", "CV"]
   author: Morgan Roderick
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -71,8 +71,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there"
-    Content: Welcome to my blog
+    Title: "Welcome"
+    Content: "This is the blog of Morgan Roderick"
 
   socialIcons:
     - name: bluesky
