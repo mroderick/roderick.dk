@@ -1,7 +1,7 @@
 ---
 title: "CV for Morgan Roderick"
 description: "Engineering leader with 25+ years experience. Currently Senior Engineering Manager at Pleo, leading 15 engineers across Payments. Seeking Staff/Principal Engineer or Engineering Manager roles."
-cover: "/images/cv-og.png"
+images: ["/images/cv-og.png"]
 hidemeta: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: false
