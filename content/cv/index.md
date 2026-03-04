@@ -90,6 +90,11 @@ _Earlier experience: Coop, ZYB, Semler IT, IT-Jobbank, Valtech, Software Innovat
 
 - **Datamatiker** (AP Degree in Computer Science) | Aarhus Business College (1996 – 1998)
 - Object Oriented Development | Datanom (1999)
+- Matematisk studenter eksamen | Thisted Gymnasium (1990 – 1993)
+
+## Additional Training
+
+- Mental Health First Aid | MHFA England
 
 ## Languages
 
