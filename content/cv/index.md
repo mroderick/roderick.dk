@@ -16,15 +16,13 @@ ShowRssButtonInSectionTermList: false
 - **GitHub:** [github.com/mroderick](https://github.com/mroderick)
 - **Web:** [roderick.dk](https://roderick.dk)
 
-_I prefer email over phone calls for most things._
-
 ## Professional Summary
 
 Engineering leader with 25+ years experience building resilient software systems and high-performing teams. Currently leading 15 engineers across Payments at Pleo, with a track record of improving operational maturity and team practices. Equally effective as hands-on technical contributor and people manager—seeking Staff/Principal Engineer or Engineering Manager roles where I can combine technical depth with mentoring and organizational impact.
 
 ## Current Role
 
-**Senior Engineering Manager, Payments Group** | Pleo (Nov 2024 – Present)  
+**Senior Engineering Manager, Payments Group** | Pleo (Nov 2024 – Present)
 **Engineering Manager, Payments Group** | Pleo (Apr 2022 – Nov 2024)
 
 - **Team Leadership:** Grew and split team into two focused teams, improving delivery velocity and developer experience
@@ -42,24 +40,24 @@ Engineering leader with 25+ years experience building resilient software systems
 
 ## Technical Skills & Practices
 
-**Languages & Frameworks**  
+**Languages & Frameworks**
 JavaScript (expert), Go (learning), Python, Ruby, Node.js, Single Page Applications, Progressive Enhancement
 
-**Architecture & Reliability**  
+**Architecture & Reliability**
 Distributed systems, microservices, circuit breakers, resilience patterns, observability (logging, metrics, tracing), SLO/SLI implementation
 
-**Practices**  
+**Practices**
 Test-driven development, refactoring, code craft, pair programming, mentoring, engineering culture building
 
-**Tools & Platforms**  
+**Tools & Platforms**
 Git, CI/CD, cloud platforms (AWS/GCP), containerization
 
-**Leadership**  
+**Leadership**
 Team scaling (grew and split teams), DORA metrics improvement, incident reduction, operational maturity programs
 
 ## Career Highlights
 
-**Senior Engineering Manager** | Pleo (Nov 2024 – Present)  
+**Senior Engineering Manager** | Pleo (Nov 2024 – Present)
 **Engineering Manager** | Pleo (Apr 2022 – Nov 2024)
 
 **Lead Engineer** | Kalo (Nov 2018 – Jan 2020)
@@ -70,7 +68,7 @@ Team scaling (grew and split teams), DORA metrics improvement, incident reductio
 
 **Senior JavaScript Developer** | Nokia gate5 (Sep 2009 – Oct 2011)
 
-**Independent Software Engineer** | Various clients (2001 – Present)  
+**Independent Software Engineer** | Various clients (2001 – Present)
 Including: Brandwatch, AKQA, Atea, Imagine Easy Solutions, Bunch, and others through agencies 7N, Strand & Donslund, Equal Experts
 
 _Earlier experience: Coop, ZYB, Semler IT, IT-Jobbank, Valtech, Software Innovation (1996 – 2001)_
@@ -98,7 +96,6 @@ _Earlier experience: Coop, ZYB, Semler IT, IT-Jobbank, Valtech, Software Innovat
 
 - **Datamatiker** (AP Degree in Computer Science) | Aarhus Business College (1996 – 1998)
 - Object Oriented Development | Datanom (1999)
-- Matematisk studenter eksamen | Thisted Gymnasium (1990 – 1993)
 
 ## Languages
 
@@ -109,4 +106,4 @@ Danish (Fluent), English (Fluent), Swedish (Some), German (~B1)
 - **LinkedIn:** [linkedin.com/in/morganroderick](https://linkedin.com/in/morganroderick)
 - **GitHub:** [github.com/mroderick](https://github.com/mroderick)
 - **Website:** [roderick.dk](https://roderick.dk)
-- Recommendations available on LinkedIn
+- [Recommendations available on LinkedIn](https://www.linkedin.com/in/morganroderick/details/recommendations/?detailScreenTabIndex=0)
