@@ -32,6 +32,16 @@ Engineering leader with 25+ years experience building resilient software systems
 - **Scale Efficiency:** Supported 3x growth in payments volume with same team size and modest hardware requirements
 - **Technical Standards:** Implemented canonical log lines and circuit breaker patterns that are set to become organization-wide standards
 
+## Key Achievements
+
+1. **Team Growth & Structure** — Grew and successfully split a team into two focused teams, improving delivery velocity and developer experience while maintaining system coherence
+
+2. **Operational Excellence** — Reduced incident scope and frequency by systematically improving resilience patterns and observability practices at Pleo
+
+3. **Scale Efficiency** — Supported 3x growth in payments volume with same team size and modest hardware requirements through architectural improvements and optimization
+
+4. **Open Source Impact** — Core team member of Sinon.JS, a testing library with wide adoption and over 9M weekly downloads, demonstrating sustained technical leadership and community contribution
+
 ## Summary
 
 I am a seasoned software engineer with a couple of decades of professional experience. My primary focus is on building high quality software products with long life span and low effort maintenance.
