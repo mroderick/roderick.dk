@@ -42,6 +42,23 @@ Engineering leader with 25+ years experience building resilient software systems
 
 4. **Open Source Impact** — Core team member of Sinon.JS, a testing library with wide adoption and over 9M weekly downloads, demonstrating sustained technical leadership and community contribution
 
+## Technical Skills & Practices
+
+**Languages & Frameworks**  
+JavaScript (expert), Go (learning), Python, Ruby, Node.js, Single Page Applications, Progressive Enhancement
+
+**Architecture & Reliability**  
+Distributed systems, microservices, circuit breakers, resilience patterns, observability (logging, metrics, tracing), SLO/SLI implementation
+
+**Practices**  
+Test-driven development, refactoring, code craft, pair programming, mentoring, engineering culture building
+
+**Tools & Platforms**  
+Git, CI/CD, cloud platforms (AWS/GCP), containerization
+
+**Leadership**  
+Team scaling (grew and split teams), DORA metrics improvement, incident reduction, operational maturity programs
+
 ## Summary
 
 I am a seasoned software engineer with a couple of decades of professional experience. My primary focus is on building high quality software products with long life span and low effort maintenance.
