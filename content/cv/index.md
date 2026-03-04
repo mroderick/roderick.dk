@@ -26,7 +26,7 @@ Engineering leader with 25+ years experience building resilient software systems
 
 I am a seasoned software engineer with a couple of decades of professional experience. My primary focus is on building high quality software products with long life span and low effort maintenance.
 
-I am aiming towards a role as Staff Engineer or Principal Engineer, though I would also consider Engineering Manager if there was some hands on work. I am particulary interested in learning golang, and continue my work of mentoring/growing software engineers.
+I am aiming towards a role as Staff Engineer or Principal Engineer. I am particulary interested in learning golang, and continue my work of mentoring/growing software engineers.
 
 I have extensive experience with building and maintaining [Single Page Applications][spa], highly resilient web applications using [progressive enhancement][pr-enh] as well as high quality JavaScript libraries (see [Sinon.JS](https://sinonjs.org)). I am equally comfortable working both client- and server-side.
 
