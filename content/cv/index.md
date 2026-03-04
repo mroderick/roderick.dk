@@ -40,8 +40,6 @@ Engineering leader with 25+ years experience building resilient software systems
 
 3. **Scale Efficiency** — Supported 3x growth in payments volume with same team size and modest hardware requirements through architectural improvements and optimization
 
-4. **Open Source Impact** — Core team member of Sinon.JS, a testing library with wide adoption and over 9M weekly downloads, demonstrating sustained technical leadership and community contribution
-
 ## Technical Skills & Practices
 
 **Languages & Frameworks**  
