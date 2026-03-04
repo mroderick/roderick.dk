@@ -96,6 +96,23 @@ _Earlier experience: Coop, ZYB, Semler IT, IT-Jobbank, Valtech, Software Innovat
 
 - **Homeless Veggie Dinner Berlin** — Volunteer cook (~10 years)
 
+## Education
+
+- **Datamatiker** (AP Degree in Computer Science) | Aarhus Business College (1996 – 1998)
+- Object Oriented Development | Datanom (1999)
+- Matematisk studenter eksamen | Thisted Gymnasium (1990 – 1993)
+
+## Languages
+
+Danish (Fluent), English (Fluent), Swedish (Some), German (~B1)
+
+## References & Links
+
+- **LinkedIn:** [linkedin.com/in/morganroderick](https://linkedin.com/in/morganroderick)
+- **GitHub:** [github.com/mroderick](https://github.com/mroderick)
+- **Website:** [roderick.dk](https://roderick.dk)
+- Recommendations available on LinkedIn
+
 ## Summary
 
 I am a seasoned software engineer with a couple of decades of professional experience. My primary focus is on building high quality software products with long life span and low effort maintenance.
