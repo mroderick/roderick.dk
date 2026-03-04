@@ -22,21 +22,15 @@ Engineering leader with 25+ years experience building resilient software systems
 
 ## Current Role
 
-**Senior Engineering Manager, Payments Group** | Pleo (Nov 2024 – Present)
+**Senior Engineering Manager, Payments Group** | Pleo (Nov 2024 – Present)  
 **Engineering Manager, Payments Group** | Pleo (Apr 2022 – Nov 2024)
+
+Managed ~15 engineers across three teams in the Payments group.
 
 - **Team Leadership:** Grew and split team into two focused teams, improving delivery velocity and developer experience
 - **Operational Excellence:** Reduced incident scope and frequency through systematic improvements in resilience and observability
 - **Scale Efficiency:** Supported 3x growth in payments volume with same team size and modest hardware requirements
 - **Technical Standards:** Implemented canonical log lines and circuit breaker patterns that are set to become organization-wide standards
-
-## Key Achievements
-
-1. **Team Growth & Structure** — Grew and successfully split a team into two focused teams, improving delivery velocity and developer experience while maintaining system coherence
-
-2. **Operational Excellence** — Reduced incident scope and frequency by systematically improving resilience patterns and observability practices at Pleo
-
-3. **Scale Efficiency** — Supported 3x growth in payments volume with same team size and modest hardware requirements through architectural improvements and optimization
 
 ## Technical Skills & Practices
 
