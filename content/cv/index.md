@@ -77,6 +77,25 @@ Including: Brandwatch, AKQA, Atea, Imagine Easy Solutions, Bunch, and others thr
 
 _Earlier experience: Coop, ZYB, Semler IT, IT-Jobbank, Valtech, Software Innovation (1996 – 2001)_
 
+## Community & Open Source
+
+**Open Source**
+
+- **Sinon.JS** — Core team member, testing library with 9M+ weekly downloads
+- Active contributor to JavaScript testing ecosystem
+
+**Community Leadership**
+
+- **codebar Berlin** — Volunteer coach and chapter organizer
+- **CoderDojo Berlin** — Volunteer mentor for young programmers
+- **CopenhagenJS** — Founder and organizer (18 months)
+- **Conference Speaker** — Front Trends 2010, Reject.JS 2010
+- **Meetup Speaker** — BerlinJS, CopenhagenJS, AsyncJS
+
+**Volunteering**
+
+- **Homeless Veggie Dinner Berlin** — Volunteer cook (~10 years)
+
 ## Summary
 
 I am a seasoned software engineer with a couple of decades of professional experience. My primary focus is on building high quality software products with long life span and low effort maintenance.
