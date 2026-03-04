@@ -22,7 +22,7 @@ Engineering leader with 25+ years experience building resilient software systems
 
 ## Current Role
 
-**Senior Engineering Manager, Payments Group** | Pleo (Nov 2024 – Present)  
+**Senior Engineering Manager, Payments Group** | Pleo (Nov 2024 – Present)
 **Engineering Manager, Payments Group** | Pleo (Apr 2022 – Nov 2024)
 
 Managed ~15 engineers across three teams in the Payments group.
@@ -94,7 +94,7 @@ _Earlier experience: Coop, ZYB, Semler IT, IT-Jobbank, Valtech, Software Innovat
 
 ## Additional Training
 
-- Mental Health First Aid | MHFA England
+- Mental Health First Aid | [MHFA England](https://mhfaengland.org)
 
 ## Languages
 
