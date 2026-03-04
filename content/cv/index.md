@@ -8,23 +8,25 @@ ShowShareButtons: false
 ShowRssButtonInSectionTermList: false
 ---
 
-Full stack software engineer with 25+ years experience
-
 ## Contact
 
-- Full name: Morgan Majgaard Roderick
-- Email: [morgan@roderick.dk](mailto:morgan@roderick.dk)
-- Phone: +49 (0) 152 0723 9351
-- Web: [roderick.dk](https://roderick.dk)
-- Location: Berlin, Germany
+- **Email:** [morgan@roderick.dk](mailto:morgan@roderick.dk)
+- **Location:** Berlin, Germany
+- **LinkedIn:** [linkedin.com/in/morganroderick](https://linkedin.com/in/morganroderick)
+- **GitHub:** [github.com/mroderick](https://github.com/mroderick)
+- **Web:** [roderick.dk](https://roderick.dk)
 
-I prefer e-mail over phone calls for most things.
+_I prefer email over phone calls for most things._
+
+## Professional Summary
+
+Engineering leader with 25+ years experience building resilient software systems and high-performing teams. Currently leading 15 engineers across Payments at Pleo, with a track record of improving operational maturity and team practices. Equally effective as hands-on technical contributor and people manager—seeking Staff/Principal Engineer or Engineering Manager roles where I can combine technical depth with mentoring and organizational impact.
 
 ## Summary
 
 I am a seasoned software engineer with a couple of decades of professional experience. My primary focus is on building high quality software products with long life span and low effort maintenance.
 
-I am aiming towards a role as Staff Engineer or Principal Engineer. I am particulary interested in learning golang, and continue my work of mentoring/growing software engineers.
+I am aiming towards a role as Staff Engineer or Principal Engineer, though I would also consider Engineering Manager if there was some hands on work. I am particulary interested in learning golang, and continue my work of mentoring/growing software engineers.
 
 I have extensive experience with building and maintaining [Single Page Applications][spa], highly resilient web applications using [progressive enhancement][pr-enh] as well as high quality JavaScript libraries (see [Sinon.JS](https://sinonjs.org)). I am equally comfortable working both client- and server-side.
 
