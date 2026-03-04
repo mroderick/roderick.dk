@@ -59,6 +59,24 @@ Git, CI/CD, cloud platforms (AWS/GCP), containerization
 **Leadership**  
 Team scaling (grew and split teams), DORA metrics improvement, incident reduction, operational maturity programs
 
+## Career Highlights
+
+**Senior Engineering Manager** | Pleo (Nov 2024 – Present)  
+**Engineering Manager** | Pleo (Apr 2022 – Nov 2024)
+
+**Lead Engineer** | Kalo (Nov 2018 – Jan 2020)
+
+**Senior Software Engineer** | Zalando SE (Jan 2017 – Nov 2018)
+
+**Senior Software Engineer** | Apple - Maps Internal Tools (May 2015 – Nov 2016)
+
+**Senior JavaScript Developer** | Nokia gate5 (Sep 2009 – Oct 2011)
+
+**Independent Software Engineer** | Various clients (2001 – Present)  
+Including: Brandwatch, AKQA, Atea, Imagine Easy Solutions, Bunch, and others through agencies 7N, Strand & Donslund, Equal Experts
+
+_Earlier experience: Coop, ZYB, Semler IT, IT-Jobbank, Valtech, Software Innovation (1996 – 2001)_
+
 ## Summary
 
 I am a seasoned software engineer with a couple of decades of professional experience. My primary focus is on building high quality software products with long life span and low effort maintenance.
