@@ -22,6 +22,16 @@ _I prefer email over phone calls for most things._
 
 Engineering leader with 25+ years experience building resilient software systems and high-performing teams. Currently leading 15 engineers across Payments at Pleo, with a track record of improving operational maturity and team practices. Equally effective as hands-on technical contributor and people manager—seeking Staff/Principal Engineer or Engineering Manager roles where I can combine technical depth with mentoring and organizational impact.
 
+## Current Role
+
+**Senior Engineering Manager, Payments Group** | Pleo (Nov 2024 – Present)  
+**Engineering Manager, Payments Group** | Pleo (Apr 2022 – Nov 2024)
+
+- **Team Leadership:** Grew and split team into two focused teams, improving delivery velocity and developer experience
+- **Operational Excellence:** Reduced incident scope and frequency through systematic improvements in resilience and observability
+- **Scale Efficiency:** Supported 3x growth in payments volume with same team size and modest hardware requirements
+- **Technical Standards:** Implemented canonical log lines and circuit breaker patterns that are set to become organization-wide standards
+
 ## Summary
 
 I am a seasoned software engineer with a couple of decades of professional experience. My primary focus is on building high quality software products with long life span and low effort maintenance.
