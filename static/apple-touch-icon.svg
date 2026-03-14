@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+  <style>
+    .bg { fill: #ffffff; }
+    .letter { fill: #1e1e1e; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #1d1e20; }
+      .letter { fill: #dadadb; }
+    }
+  </style>
+  <rect width="180" height="180" class="bg" rx="24"/>
+  <text x="90" y="128" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="118" font-weight="700" class="letter">r</text>
+</svg>
