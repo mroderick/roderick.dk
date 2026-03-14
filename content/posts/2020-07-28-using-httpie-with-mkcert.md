@@ -1,5 +1,5 @@
 ---
-date: "2020-07-28T12:03:00+0200"
+date: "2020-07-28T12:03:00+02:00"
 title: "Using HTTPie with mkcert"
 tags: ["Work"]
 aliases: /2020/07/28/using-httpie-with-mkcert/

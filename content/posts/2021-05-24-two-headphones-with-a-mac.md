@@ -1,5 +1,5 @@
 ---
-date: "2021-05-24T11:21:00+0200"
+date: "2021-05-24T11:21:00+02:00"
 title: "Two headphones with a Mac"
 tags: ["Link", "macOS"]
 aliases: /2021/05/24/two-headphones-with-a-mac/

@@ -1,5 +1,5 @@
 ---
-date: "2009-03-16T00:00:00+0000"
+date: "2009-03-16T00:00:00+00:00"
 title: "Creating Sitemaps with Comatose CMS"
 tags: ["Web", "Work"]
 aliases: /2009/03/16/creating-sitemaps-with-comatose-cms/

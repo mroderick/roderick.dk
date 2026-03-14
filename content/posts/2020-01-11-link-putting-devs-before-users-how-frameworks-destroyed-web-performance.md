@@ -1,5 +1,5 @@
 ---
-date: "2020-01-11T12:34:00+0000"
+date: "2020-01-11T12:34:00+00:00"
 title: "Link: Putting devs before users: how frameworks destroyed web performance"
 tags: ["Link", "Work", "Web"]
 aliases: /2020/01/11/link-putting-devs-before-users-how-frameworks-destroyed-web-performance/

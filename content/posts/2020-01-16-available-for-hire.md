@@ -1,5 +1,5 @@
 ---
-date: "2020-01-16T10:59:00+0000"
+date: "2020-01-16T10:59:00+00:00"
 title: "Available for hire!"
 tags: ["Work"]
 aliases: /2020/01/16/available-for-hire/

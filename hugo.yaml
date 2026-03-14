@@ -12,6 +12,8 @@ minify:
   disableXML: true
   minifyOutput: false
 
+summaryLength: 50
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "roderick.dk"
@@ -69,8 +71,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Welcome"
-    Content: "This is the blog of Morgan Roderick"
+    Title: ""
+    Content: "Software engineer writing about life, code, teams, and technology."
 
   socialIcons:
     - name: bluesky

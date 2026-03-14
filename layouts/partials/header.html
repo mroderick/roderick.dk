@@ -64,7 +64,12 @@
                 {{- cond $is_search " accesskey=/" "" | safeHTMLAttr -}}
                 {{- if eq $menu_item_url $page_url }} aria-current="page" {{- end }}
                 >
-                    <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>{{ .Name }}</span>
+                    <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
+                        {{- if eq .Identifier "cv" -}}
+                        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 4px;"><path d="M4 4v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8.342a2 2 0 0 0-.602-1.43l-4.44-4.342A2 2 0 0 0 13.56 2H6a2 2 0 0 0-2 2z"/><path d="M9 13h6"/><path d="M9 17h3"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/></svg>
+                        {{- end -}}
+                        {{- .Name -}}
+                    </span>
                 </a>
             </li>
             {{- end }}

@@ -1,5 +1,5 @@
 ---
-date: "2021-12-21T18:35:00+0100"
+date: "2021-12-21T18:35:00+01:00"
 title: "Everyone sweeps the floor"
 tags: ["Link"]
 aliases: /2021/12/21/everyone-sweeps-the-floor/

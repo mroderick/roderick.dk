@@ -1,5 +1,5 @@
 ---
-date: "2009-07-08T00:00:00+0000"
+date: "2009-07-08T00:00:00+00:00"
 title: "Setting Up Virtual Hosts on OS X Leopard"
 tags: ["OSX"]
 aliases: /2009/07/08/setting-up-virtual-hosts-on-os-x-leopard/

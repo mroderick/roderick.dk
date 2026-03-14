@@ -1,5 +1,5 @@
 ---
-date: "2009-08-16T00:00:00+0000"
+date: "2009-08-16T00:00:00+00:00"
 title: "TextMate snippet for creating Low Pro Behaviors"
 tags: ["JavaScript"]
 aliases: /2009/08/16/textmate-snippet-for-creating-low-pro-behaviors/

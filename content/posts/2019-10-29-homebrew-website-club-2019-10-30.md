@@ -1,5 +1,5 @@
 ---
-date: "2019-10-29T11:58:00+0100"
+date: "2019-10-29T11:58:00+01:00"
 title: "Homebrew Website Club, 2019-10-30"
 tags: ["HWC", "Web", "Work"]
 aliases: /2019/10/29/homebrew-website-club-2019-10-30/

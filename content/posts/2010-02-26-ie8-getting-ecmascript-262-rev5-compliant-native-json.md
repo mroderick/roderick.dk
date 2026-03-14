@@ -1,5 +1,5 @@
 ---
-date: "2010-02-26T00:00:00+0000"
+date: "2010-02-26T00:00:00+00:00"
 title: "IE8 Getting EcmaScript 262 rev. 5 Compliant Native JSON"
 tags: ["JavaScript"]
 aliases: /2010/02/26/ie8-getting-ecmascript-262-rev5-compliant-native-json/

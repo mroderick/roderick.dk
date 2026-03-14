@@ -21,6 +21,20 @@
 {{- else }}
 <body id="top">
 {{- end }}
+{{- if (not site.Params.disableThemeToggle) }}
+<script>
+  (function () {
+    const theme = localStorage.getItem("pref-theme");
+    if (theme === "dark") {
+      document.body.classList.add("dark");
+    } else if (theme === "light") {
+      document.body.classList.remove("dark");
+    } else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+      document.body.classList.add("dark");
+    }
+  })();
+</script>
+{{- end }}
     {{ partialCached "header.html" . .Page -}}
     <main class="main" id="main-content">
         {{- block "main" . }}{{ end }}

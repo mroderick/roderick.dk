@@ -18,6 +18,8 @@
   top: 0;
   outline: 2px solid var(--primary);
   outline-offset: 2px;
+  background: var(--primary);
+  color: var(--theme);
 }
 
 /* Visible focus indicators for interactive elements */
@@ -100,4 +102,94 @@ select:focus-visible {
 .anchor:focus-visible {
   outline: 2px solid var(--primary);
   outline-offset: 2px;
+}
+
+/* Home info section styling - make it distinct from posts */
+.home-info {
+  background: transparent;
+  border: none;
+  padding: var(--gap) 0;
+  margin-bottom: calc(var(--gap) * 2);
+}
+
+.home-info .entry-content {
+  font-size: 1.4rem;
+  line-height: 1.5;
+  color: var(--secondary);
+  -webkit-line-clamp: unset;
+  display: block;
+  font-style: italic;
+}
+
+/* Remove the card styling from home-info */
+.home-info.first-entry {
+  min-height: auto;
+  background: transparent;
+  border-radius: 0;
+  border: none;
+}
+
+.home-info .entry-header {
+  display: none;
+}
+
+/* Editorial layout for post entries - remove card styling */
+.post-entry {
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  padding: var(--gap) 0;
+  margin-bottom: 0;
+  position: relative;
+}
+
+.post-entry:not(:last-child) {
+  border-bottom: 1px solid var(--border);
+}
+
+.post-entry .entry-header {
+  margin-bottom: 0.5rem;
+}
+
+.post-entry .entry-header h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.post-entry .entry-content {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--secondary);
+  margin-bottom: 0.5rem;
+}
+
+.post-entry .entry-footer {
+  font-size: 0.875rem;
+  color: var(--secondary);
+  opacity: 0.8;
+}
+
+/* Remove the card hover effect */
+.post-entry:hover {
+  transform: none;
+  box-shadow: none;
+}
+
+/* Ensure entry-link still works for clicking */
+.post-entry .entry-link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+}
+
+/* Footer mobile alignment */
+@media (max-width: 768px) {
+  .footer {
+    justify-content: flex-start;
+    padding: 1rem;
+  }
 }

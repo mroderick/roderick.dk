@@ -1,5 +1,5 @@
 ---
-date: "2012-05-11T00:00:00+0000"
+date: "2012-05-11T00:00:00+00:00"
 title: "Simulate slow web connections"
 tags: ["Web", "Work"]
 aliases: /2012/05/11/simulate-slow-web-connections/

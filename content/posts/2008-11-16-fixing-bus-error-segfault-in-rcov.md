@@ -1,5 +1,5 @@
 ---
-date: "2008-11-16T00:00:00+0000"
+date: "2008-11-16T00:00:00+00:00"
 title: "Fixing Bus Error / Segfault in Rcov"
 tags: ["Ruby", "Work"]
 aliases: /2008/11/16/fixing-bus-error-segfault-in-rcov/

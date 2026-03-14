@@ -1,5 +1,5 @@
 ---
-date: "2009-11-04T00:00:00+0000"
+date: "2009-11-04T00:00:00+00:00"
 title: "Speeding Up Your Webby Site With Juicer"
 tags: ["CSS", "Web"]
 aliases: /2009/11/04/speeding-up-your-webby-site-with-juicer/

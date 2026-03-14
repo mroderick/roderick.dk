@@ -1,5 +1,5 @@
 ---
-date: "2010-10-12T00:00:00+0000"
+date: "2010-10-12T00:00:00+00:00"
 title: "Introducing PubSubJS, a library for doing publish/subscribe in JavaScript"
 tags: ["JavaScript", "Work"]
 aliases: /2010/10/12/introducing-pubsubjs-a-library-for-doing-publish-subscribe-in-javascript/

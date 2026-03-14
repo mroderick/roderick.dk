@@ -1,5 +1,5 @@
 ---
-date: "2012-11-13T00:00:00+0000"
+date: "2012-11-13T00:00:00+00:00"
 title: "Full Frontal Conf 2012"
 tags: ["Work"]
 aliases: /2012/11/13/full-frontal-conf-2012/

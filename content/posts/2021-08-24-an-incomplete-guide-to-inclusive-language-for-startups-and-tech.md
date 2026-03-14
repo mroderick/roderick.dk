@@ -1,5 +1,5 @@
 ---
-date: "2021-08-24T10:57:00+0200"
+date: "2021-08-24T10:57:00+02:00"
 title: "An Incomplete Guide to Inclusive Language for Startups and Tech"
 tags: ["Link", "Work"]
 aliases: /2021/08/24/an-incomplete-guide-to-inclusive-language-for-startups-and-tech/

@@ -1,5 +1,5 @@
 ---
-date: "2021-09-17T11:21:00+0200"
+date: "2021-09-17T11:21:00+02:00"
 title: "Don't git pull, use git pull --rebase instead"
 tags: ["Link", "Git"]
 aliases: /2021/09/17/don-t-git-pull-use-git-pull-rebase-instead/

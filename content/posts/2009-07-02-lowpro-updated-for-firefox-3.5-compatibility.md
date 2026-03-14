@@ -1,5 +1,5 @@
 ---
-date: "2009-07-02T00:00:00+0000"
+date: "2009-07-02T00:00:00+00:00"
 title: "LowPro Updated for Firefox 3.5"
 tags: ["JavaScript"]
 aliases: /2009/07/02/lowpro-updated-for-firefox-3.5-compatibility/

@@ -1,5 +1,5 @@
 ---
-date: "2009-03-27T00:00:00+0000"
+date: "2009-03-27T00:00:00+00:00"
 title: "IE6 Background flicker once again"
 tags: ["JavaScript", "Web", "Work"]
 aliases: /2009/03/27/ie6-background-flicker-once-again/

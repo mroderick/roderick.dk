@@ -1,5 +1,5 @@
 ---
-date: "2022-02-07T10:38:00+0100"
+date: "2022-02-07T10:38:00+01:00"
 title: "You might not need TypeScript... (syntax)"
 tags: ["Link", "TypeScript"]
 aliases: /2022/02/07/you-might-not-need-typescript-syntax/

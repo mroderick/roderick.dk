@@ -22,6 +22,16 @@ hugo
 hugo new content/posts/my-post-title.md
 ```
 
+## Local Development
+
+**CRITICAL**: When developing locally, always use `hugo server` (the development server), never `hugo` (the production build). The development server:
+
+- Automatically overrides `baseURL` with `http://localhost:1313`
+- Provides live reload for instant feedback
+- Generates correct local URLs for all links
+
+**Never use `hugo` for local testing** - it generates production URLs pointing to `https://roderick.dk/` which will not work locally.
+
 ## Architecture
 
 **Static Site Generator**: Hugo v0.148.2 (version pinned in `.hvm`)

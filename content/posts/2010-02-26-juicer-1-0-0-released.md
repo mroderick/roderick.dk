@@ -1,5 +1,5 @@
 ---
-date: "2010-02-26T00:00:00+0000"
+date: "2010-02-26T00:00:00+00:00"
 title: "Juicer 1.0.0 Released"
 tags: ["Ruby", "Web", "Work"]
 aliases: /2010/02/26/juicer-1-0-0-released/

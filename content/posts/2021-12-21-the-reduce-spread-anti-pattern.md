@@ -1,5 +1,5 @@
 ---
-date: "2021-12-21T09:50:00+0100"
+date: "2021-12-21T09:50:00+01:00"
 title: "The reduce ({...spread}) anti-pattern"
 tags: ["Link", "JavaScript"]
 aliases: /2021/12/21/the-reduce-spread-anti-pattern/

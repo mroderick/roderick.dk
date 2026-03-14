@@ -1,5 +1,5 @@
 ---
-date: "2021-05-04T08:37:00+0100"
+date: "2021-05-04T08:37:00+01:00"
 title: "trapped in the technologist factory"
 tags: ["Link"]
 aliases: /2021/05/04/trapped-in-the-technologist-factory/
