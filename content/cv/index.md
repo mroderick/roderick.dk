@@ -46,7 +46,7 @@ Distributed systems, microservices, circuit breakers, resilience patterns, obser
 Test-driven development, refactoring, code craft, pair programming, mentoring, engineering culture building
 
 **Tools & Platforms**
-Git, CI/CD, cloud platforms (AWS/GCP), containerization
+Git, [Claude Code](https://claude.com/claude-code), [OpenCode](https://opencode.ai), CI/CD, cloud platforms (AWS/GCP), containerization
 
 **Leadership**
 Team scaling (grew and split teams), DORA metrics improvement, incident reduction, operational maturity programs
