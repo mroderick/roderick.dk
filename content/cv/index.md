@@ -73,8 +73,8 @@ _Earlier experience: Coop, ZYB, Semler IT, IT-Jobbank, Valtech, Software Innovat
 
 **Open Source**
 
+- **[idempot-js](https://js.idempot.dev)** — Author, idempotency middleware for Hono, Express, and Fastify with built-in resilience. Implements [IETF draft specification](https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-07).
 - **Sinon.JS** — Core team member, testing library with 9M+ weekly downloads
-- Active contributor to JavaScript testing ecosystem
 
 **Community Leadership**
 
