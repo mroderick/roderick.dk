@@ -20,7 +20,7 @@ ShowRssButtonInSectionTermList: false
 
 ## Professional Summary
 
-Engineering leader with 25+ years experience building resilient software systems and high-performing teams. Currently leading 15 engineers across Payments at Pleo, with a track record of improving operational maturity and team practices. Equally effective as hands-on technical contributor and people manager—seeking Staff/Principal Engineer or Engineering Manager roles where I can combine technical depth with mentoring and organizational impact.
+Engineering leader with 25+ years experience. Currently leading 15 engineers across Payments at Pleo. Hands-on technical contributor and people manager, seeking Staff/Principal Engineer or Engineering Manager roles.
 
 ## Current Role
 
@@ -30,7 +30,7 @@ Engineering leader with 25+ years experience building resilient software systems
 Managed ~15 engineers across three teams in the Payments group.
 
 - **Team Leadership:** Grew and split team into two focused teams, improving delivery velocity and developer experience
-- **Operational Excellence:** Reduced incident scope and frequency through systematic improvements in resilience and observability
+- **Operational Excellence:** Reduced incident scope and frequency through improvements in resilience and observability
 - **Scale Efficiency:** Supported 3x growth in payments volume with same team size and modest hardware requirements
 - **Technical Standards:** Implemented canonical log lines and circuit breaker patterns that are set to become organization-wide standards
 
