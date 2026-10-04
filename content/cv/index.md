@@ -18,11 +18,11 @@ ShowRssButtonInSectionTermList: false
 - **GitHub:** [github.com/mroderick](https://github.com/mroderick)
 - **Web:** [roderick.dk](https://roderick.dk)
 
-## Professional Summary
+## Professional summary
 
 Engineering leader with 25+ years experience. Currently leading 15 engineers across Payments at Pleo. Hands-on technical contributor and people manager, seeking Staff/Principal Engineer or Engineering Manager roles.
 
-## Current Role
+## Current role
 
 **Senior Engineering Manager, Payments Group** | Pleo (Nov 2024 – Present)
 **Engineering Manager, Payments Group** | Pleo (Apr 2022 – Nov 2024)
@@ -34,7 +34,7 @@ Managed ~15 engineers across three teams in the Payments group.
 - **Scale Efficiency:** Supported 3x growth in payments volume with same team size and modest hardware requirements
 - **Technical Standards:** Implemented canonical log lines and circuit breaker patterns that are set to become organization-wide standards
 
-## Technical Skills & Practices
+## Technical skills & practices
 
 **Languages & Frameworks**
 JavaScript (expert), Go (learning), Python, Ruby, Node.js, Single Page Applications, Progressive Enhancement
@@ -51,7 +51,7 @@ Git, [Claude Code](https://claude.com/claude-code), [OpenCode](https://opencode.
 **Leadership**
 Team scaling (grew and split teams), DORA metrics improvement, incident reduction, operational maturity programs
 
-## Career Highlights
+## Career highlights
 
 **Senior Engineering Manager** | Pleo (Nov 2024 – Present)
 **Engineering Manager** | Pleo (Apr 2022 – Nov 2024)
@@ -69,7 +69,7 @@ Including: Brandwatch, AKQA, Atea, Imagine Easy Solutions, Bunch, and others thr
 
 _Earlier experience: Coop, ZYB, Semler IT, IT-Jobbank, Valtech, Software Innovation (1996 – 2001)_
 
-## Community & Open Source
+## Community & open source
 
 **Open Source**
 
@@ -95,7 +95,7 @@ _Earlier experience: Coop, ZYB, Semler IT, IT-Jobbank, Valtech, Software Innovat
 - Object Oriented Development | Datanom (1999)
 - Matematisk studenter eksamen | Thisted Gymnasium (1990 – 1993)
 
-## Additional Training
+## Additional training
 
 - Mental Health First Aid | [MHFA England](https://mhfaengland.org)
 
@@ -103,7 +103,7 @@ _Earlier experience: Coop, ZYB, Semler IT, IT-Jobbank, Valtech, Software Innovat
 
 Danish (Fluent), English (Fluent), Swedish (Some), German (~B1)
 
-## References & Links
+## References & links
 
 - **LinkedIn:** [linkedin.com/in/morganroderick](https://linkedin.com/in/morganroderick)
 - **GitHub:** [github.com/mroderick](https://github.com/mroderick)
